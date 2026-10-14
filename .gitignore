@@ -1,0 +1,7 @@
+research/*.txt
+research/*license-checks.json
+node_modules/
+qa/local/
+out/
+publication-record.json
+scripts/publication-payload.json

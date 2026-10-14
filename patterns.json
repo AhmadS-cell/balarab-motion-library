@@ -1,0 +1,537 @@
+{
+  "version": 1,
+  "patterns": [
+    {
+      "id": "word-highlight",
+      "name_en": "Spoken Word Highlight",
+      "name_ar": "هايلايت الكلمة المنطوقة",
+      "when_ar": "كابتشن الشرح بعد الهوك",
+      "state_before_ar": "العبارة العربية كاملة على سطر واحد.",
+      "action_ar": "ينتقل هايلايت الأورنج إلى الكلمة المنطوقة حسب المحاذاة.",
+      "state_after_ar": "يبقى السطر مقروءًا حتى العبارة التالية.",
+      "candidate_repositories": [
+        "remotion-dev/remotion"
+      ],
+      "avoid_ar": "لا تكشف حروفًا منفصلة ولا تختلق وقتًا قبل تسجيل ناصر.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "complete-hook",
+      "name_en": "Complete First-frame Hook",
+      "name_ar": "هوك كامل من أول فريم",
+      "when_ar": "افتتاح الريل بوعد وسياق واضح",
+      "state_before_ar": "النص الكامل والكبير ظاهر منذ الفريم الأول.",
+      "action_ar": "عنصر سياق صغير أو حركة دالة تبدأ بعد وضوح العنوان.",
+      "state_after_ar": "ينتقل المشهد إلى أول دليل يحقق الوعد.",
+      "candidate_repositories": [
+        "remotion-dev/remotion",
+        "degueba/onda"
+      ],
+      "avoid_ar": "typewriter لا يؤخر اكتمال الهوك؛ الجليتش لا يحجب العربية.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "object-reveal",
+      "name_en": "Origin-based Reveal",
+      "name_ar": "كشف العنصر من مصدره",
+      "when_ar": "استخراج تفصيل من منتج أو طلب أو واجهة",
+      "state_before_ar": "المصدر معروف وبياناته ظاهرة بالقدر اللازم.",
+      "action_ar": "يتكشف نفس التفصيل من موضعه لا من حافة مجهولة.",
+      "state_after_ar": "يركز المشاهد على التفصيل مع بقاء رابط المصدر.",
+      "candidate_repositories": [
+        "juliangarnier/anime",
+        "motion-canvas/motion-canvas",
+        "degueba/onda"
+      ],
+      "avoid_ar": "لا ظهور عناصر جديدة من دون أصل أو دليل.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "space-before-entry",
+      "name_en": "Make Space Before Entry",
+      "name_ar": "إفساح مكان قبل الدخول",
+      "when_ar": "إضافة طلب أو بند إلى مجموعة",
+      "state_before_ar": "العناصر الموجودة مستقرة ومقروءة.",
+      "action_ar": "يعاد توزيع الموجود، ثم يدخل الجديد ويكبر قليلًا ويستقر.",
+      "state_after_ar": "المجموعة كاملة داخل حدودها مع رقم ووحدة واضحين.",
+      "candidate_repositories": [
+        "greensock/GSAP",
+        "formkit/auto-animate",
+        "motiondivision/motion"
+      ],
+      "avoid_ar": "لا تخرج العناصر من البطاقة أثناء الذروة ولا تصغر الكابتشن لحل الزحام.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "attached-counter",
+      "name_en": "Attached Counter Change",
+      "name_ar": "تغير عداد مرتبط بعنصر",
+      "when_ar": "كمية أو تكلفة أو عدد طلبات تغير مع فعل",
+      "state_before_ar": "قيمة البداية ووحدتها داخل العنصر المقصود.",
+      "action_ar": "تتغير القيمة على كلمة الفعل وتستقر؛ يحفظ موضع الوحدة.",
+      "state_after_ar": "القيمة الجديدة واضحة داخل العنصر نفسه.",
+      "candidate_repositories": [
+        "remotion-dev/remotion",
+        "magicuidesign/magicui",
+        "degueba/onda"
+      ],
+      "avoid_ar": "لا عدادات مستمرة بلا معنى ولا قفز أرقام مخترعة أو وحدة منفصلة.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "replace-value",
+      "name_en": "Single Tag Value Swap",
+      "name_ar": "استبدال قيمة في مكانها",
+      "when_ar": "تغير سعر أو حالة في نفس البطاقة",
+      "state_before_ar": "السعر أو الحالة القديمة واضحة.",
+      "action_ar": "تخفى القديمة ثم تكشف الجديدة في نفس العنصر.",
+      "state_after_ar": "تظهر قيمة واحدة من دون تراكب.",
+      "candidate_repositories": [
+        "remotion-dev/remotion",
+        "juliangarnier/anime"
+      ],
+      "avoid_ar": "لا سعران متداخلان ولا فهم سعر تخفيض إذا لم يكن المعنى تخفيضًا.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "ab-focus",
+      "name_en": "A/B Focus Transfer",
+      "name_ar": "انتقال تركيز بين A وB",
+      "when_ar": "مقارنة خيارين في قصة واحدة",
+      "state_before_ar": "الطرفان معروفان ويحملان بيانات المقارنة.",
+      "action_ar": "يكبر الطرف الجاري شرحه ويتراجع الآخر، ثم يتحول التركيز.",
+      "state_after_ar": "يحفظ المشهد الطرفين حتى نتيجة المقارنة.",
+      "candidate_repositories": [
+        "motiondivision/motion",
+        "remotion-dev/remotion",
+        "lifeprompt-team/remotion-scenes"
+      ],
+      "avoid_ar": "لا تختف مجموعة أو يتحول طرفان إلى مجموع كلي يقطع العلاقة.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "cursor-click-result",
+      "name_en": "Input Click Result",
+      "name_ar": "مدخل ثم ضغط ثم نتيجة",
+      "when_ar": "طلب أو إرسال أو فتح داخل واجهة حقيقية",
+      "state_before_ar": "التحكم والمدخل معروفان بموقع RTL الصحيح.",
+      "action_ar": "يصل المؤشر للزر ويضغطه، ويتزامن Click مع الملامسة.",
+      "state_after_ar": "تظهر استجابة النظام بعد الضغط ثم تستقر.",
+      "candidate_repositories": [
+        "degueba/onda",
+        "lifeprompt-team/remotion-scenes",
+        "greensock/GSAP"
+      ],
+      "avoid_ar": "لا ضغط بجانب الزر أو نتيجة قبله؛ لا صورة عميل زخرفية.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "field-focus",
+      "name_en": "Native Field Focus",
+      "name_ar": "تكبير الحقل نفسه",
+      "when_ar": "توضيح تغير حقل صغير مهم",
+      "state_before_ar": "واجهة موبايل مع الحقل في مكانه الحقيقي.",
+      "action_ar": "يظلل الحقل ويكبر التفصيل نفسه مع حفظ نسب الواجهة.",
+      "state_after_ar": "يقرأ التغير ثم يعود للسياق أو ينتقل بعد دوره.",
+      "candidate_repositories": [
+        "greensock/GSAP",
+        "remotion-dev/remotion"
+      ],
+      "avoid_ar": "لا عنوان شارح إضافي بدل الحقل ولا تبديل بياناته أثناء التكبير.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "message-arrival",
+      "name_en": "Functional Message Arrival",
+      "name_ar": "وصول رسالة وظيفية",
+      "when_ar": "تنبيه مرتبط بسبب أو حدث",
+      "state_before_ar": "المنتج أو الطلب وسبب التنبيه معروفان.",
+      "action_ar": "تصل الرسالة بعد السبب داخل قناتها، بمحتواها وزرها حين يلزم.",
+      "state_after_ar": "يتيح الزر الانتقال إلى نفس المنتج أو الطلب.",
+      "candidate_repositories": [
+        "airbnb/lottie-web",
+        "motion-canvas/motion-canvas",
+        "remotion-dev/remotion"
+      ],
+      "avoid_ar": "رمز الظرف لا يعوض محتوى الرسالة، ولا تضاف قناة أخرى بلا حاجة.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "customer-loss",
+      "name_en": "Customer Exit and Loss",
+      "name_ar": "مغادرة العميل وفقدانه",
+      "when_ar": "المنطوق يشرح فقدان العميل فعلًا",
+      "state_before_ar": "العميل المرسوم أو أثره الوظيفي معروف.",
+      "action_ar": "يغادر، وتظهر X عند الفقد ثم يختفي.",
+      "state_after_ar": "توضح الخسارة قبل الدليل أو الحل التالي.",
+      "candidate_repositories": [
+        "motion-canvas/motion-canvas",
+        "juliangarnier/anime"
+      ],
+      "avoid_ar": "لا علامة استفهام للدلالة على خسارة مؤكدة؛ الشخصية ليست واجبة في قصة الواجهات.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "stock-zero",
+      "name_en": "Stock to Zero",
+      "name_ar": "كمية المنتج إلى صفر",
+      "when_ar": "شرح نفاد مخزون منتج",
+      "state_before_ar": "المنتج وعداده مرتبطان بصريًا.",
+      "action_ar": "ينقص العداد عند الفعل ويستقر على صفر.",
+      "state_after_ar": "تتغير حالة التوفر وتبدأ خطوة مرتبطة بها.",
+      "candidate_repositories": [
+        "remotion-dev/remotion",
+        "konvajs/konva"
+      ],
+      "avoid_ar": "لا صفر عائم أو منتج مختلف في النتيجة.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "source-to-destination",
+      "name_en": "Source Action Destination",
+      "name_ar": "مصدر وفعل ووجهة ونتيجة",
+      "when_ar": "انتقال تكلفة أو معلومة أو طرد",
+      "state_before_ar": "المصدر والوجهة معروفان بحسب القصة.",
+      "action_ar": "يتحرك العنصر من المصدر إلى الوجهة على المنطوق.",
+      "state_after_ar": "يستقر وتتغير حالة الوجهة بعد الوصول.",
+      "candidate_repositories": [
+        "juliangarnier/anime",
+        "greensock/GSAP",
+        "motion-canvas/motion-canvas"
+      ],
+      "avoid_ar": "النقود الرمزية خضراء بلا قيمة مخترعة؛ لا تدعي آلية تسوية أو ربحًا غير محسوب.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "build-total",
+      "name_en": "Build the Total",
+      "name_ar": "بناء المجموع خطوة خطوة",
+      "when_ar": "شرح مصروفات للمبتدئ",
+      "state_before_ar": "بند معروف وقيمته موثقة أو افتراضية معلنة.",
+      "action_ar": "يظهر البند ثم القيمة ثم أثرها في المجموع.",
+      "state_after_ar": "يستقر الإجمالي، ثم يفتح المقطع التالي سؤالًا طبيعيًا.",
+      "candidate_repositories": [
+        "ManimCommunity/manim",
+        "remotion-dev/remotion",
+        "degueba/onda"
+      ],
+      "avoid_ar": "لا تجمع المصروف داخل ميزانية فوق الميزانية مرة ثانية.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "calendar-role",
+      "name_en": "Role-labelled Calendar",
+      "name_ar": "تقويم مفهوم الدور",
+      "when_ar": "اشتراك أو تجديد أو مدة لها معنى",
+      "state_before_ar": "تقويم مسمى داخل رسمته بحسب الدور.",
+      "action_ar": "تتحرك الإشارة عبر شهور أو استحقاق مذكور فعليًا.",
+      "state_after_ar": "يظهر أثر التوقيت في القرار أو الحسبة.",
+      "candidate_repositories": [
+        "motion-canvas/motion-canvas",
+        "lifeprompt-team/remotion-scenes"
+      ],
+      "avoid_ar": "لا تاريخ أو رسوم مخترعة ولا تقويم عام لا يشرح شيئًا.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "same-object-bridge",
+      "name_en": "Same Object Scene Bridge",
+      "name_ar": "جسر بنفس العنصر",
+      "when_ar": "انتقال بين أداة وأخرى أو سؤال ودليله",
+      "state_before_ar": "آخر حالة العنصر وبياناته محفوظة.",
+      "action_ar": "يحمل نفس المعرف والصورة والرقم عبر الجسر.",
+      "state_after_ar": "يبدأ التالي من الحالة السابقة ويضيف فعلًا جديدًا.",
+      "candidate_repositories": [
+        "remotion-dev/remotion",
+        "motion-canvas/examples",
+        "simplexlabs/montage"
+      ],
+      "avoid_ar": "لا dissolve بين نصين متداخلين ولا قفزة إلى منتج جديد.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "chart-evidence",
+      "name_en": "Data Evidence Reveal",
+      "name_ar": "كشف الدليل البياني",
+      "when_ar": "بيانات فعلية أو مثال معلن يخدم قرارًا",
+      "state_before_ar": "محور ووحدة وعينة أو فرضية واضحة.",
+      "action_ar": "يكشف المسار أو العمود ثم القيمة موضع الشرح.",
+      "state_after_ar": "يستقر الدليل وتقرأ النتيجة المقصودة.",
+      "candidate_repositories": [
+        "ManimCommunity/manim",
+        "lifeprompt-team/remotion-scenes",
+        "reactvideoeditor/remotion-templates"
+      ],
+      "avoid_ar": "لا رسم يحركه جمال فقط ولا تغير اتجاه الزمن لمجرد RTL؛ RVE مرجع حتى حسم الترخيص.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "product-depth",
+      "name_en": "Purposeful Product Depth",
+      "name_ar": "عمق يخدم المنتج",
+      "when_ar": "زاوية أو ملمس أو جانب من المنتج يحتاج شرحًا",
+      "state_before_ar": "منتج متقن بنسب وخامة صحيحتين.",
+      "action_ar": "حركة كاميرا قصيرة تكشف الخاصية المطلوبة.",
+      "state_after_ar": "استقرار مناسب للقراءة مع بقاء النص خارج الكاميرا.",
+      "candidate_repositories": [
+        "mrdoob/three.js",
+        "pmndrs/react-three-fiber",
+        "pmndrs/drei"
+      ],
+      "avoid_ar": "لا دوران مستمر أو إطار هاتف مخالف أو تغيير هوية المنتج.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "draw-functional-path",
+      "name_en": "Functional Draw-on",
+      "name_ar": "رسم مسار وظيفي",
+      "when_ar": "علاقة أو خط أو جسم يفيد في تفسير خطوة",
+      "state_before_ar": "طرفا العلاقة معروفان.",
+      "action_ar": "يكتمل المسار بالتزامن مع الفعل ويصل إلى وجهة واضحة.",
+      "state_after_ar": "تتغير الحالة بعد الوصول أو يثبت الدليل.",
+      "candidate_repositories": [
+        "maxwellito/vivus",
+        "veltman/flubber",
+        "juliangarnier/anime"
+      ],
+      "avoid_ar": "لا أسهم غامضة أو خط رجوع يعوض طلبًا أو فعلًا مفقودًا.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    },
+    {
+      "id": "quiet-confirmation",
+      "name_en": "Quiet Result Confirmation",
+      "name_ar": "تأكيد نتيجة خفيف",
+      "when_ar": "حدث مكتمل يحتاج إشارة قصيرة",
+      "state_before_ar": "الفعل انتهى والنتيجة موجودة.",
+      "action_ar": "تأكيد خفيف بصري وصوتي بعد الحدث.",
+      "state_after_ar": "يستقر المشهد للفهم ثم يخرج ما انتهى دوره.",
+      "candidate_repositories": [
+        "mojs/mojs",
+        "airbnb/lottie-web",
+        "tsparticles/tsparticles"
+      ],
+      "avoid_ar": "لا confetti مع كل كلمة؛ لا تضف احتفالًا لنتيجة غير مثبتة.",
+      "enter_cue": "كلمة تعريف العنصر في المنطوق الحالي",
+      "transform_cue": "كلمة الفعل في المنطوق الحالي",
+      "exit_cue": "انتهاء دور العنصر بحسب المنطوق والانتقال",
+      "timing_basis": "actual narration alignment",
+      "timing_seconds": {
+        "enter": null,
+        "transform": null,
+        "settle": null,
+        "exit": null
+      },
+      "qa_status": "planned_recipe_not_rendered",
+      "source_basis": "original Balarab editorial recipe linked to researched tools; latest user rules apply"
+    }
+  ]
+}

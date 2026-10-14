@@ -1,0 +1,40 @@
+[
+  {
+    "repo": "remotion-dev/remotion",
+    "status": 200,
+    "url": "https://github.com/remotion-dev/remotion/blob/main/LICENSE.md",
+    "path": "LICENSE.md",
+    "spdx": "NOASSERTION",
+    "excerpt": "# Remotion License\n\nIn Remotion 5.0, the license will slightly change. [View the changes here](https://github.com/remotion-dev/remotion/pull/3750).\n\n---\n\nDepending on the type of your legal entity, you are granted permission to use Remotion for your project. Individuals and small companies are allowed to use Remotion to create videos for free (even"
+  },
+  {
+    "repo": "konvajs/konva",
+    "status": 200,
+    "url": "https://github.com/konvajs/konva/blob/master/LICENSE",
+    "path": "LICENSE",
+    "spdx": "NOASSERTION",
+    "excerpt": "MIT License\n\nOriginal work Copyright (C) 2011 - 2013 by Eric Rowell (KineticJS)\nModified work Copyright (C) 2014 - present by Anton Lavrenov (Konva)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, includin"
+  },
+  {
+    "repo": "DavidHDev/react-bits",
+    "status": 200,
+    "url": "https://github.com/DavidHDev/react-bits/blob/main/LICENSE.md",
+    "path": "LICENSE.md",
+    "spdx": "NOASSERTION",
+    "excerpt": "MIT + Commons Clause License Condition v1.0\n\nCopyright (c) 2026 David Haz\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, and d"
+  },
+  {
+    "repo": "av/remotion-bits",
+    "status": 404,
+    "url": null,
+    "path": null,
+    "spdx": null
+  },
+  {
+    "repo": "reactvideoeditor/remotion-templates",
+    "status": 404,
+    "url": null,
+    "path": null,
+    "spdx": null
+  }
+]
