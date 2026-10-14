@@ -18,7 +18,7 @@ export const groups=[
  ['odometer','عداد أرقام متدحرج','Odometer','حركة رأسية للأرقام داخل نافذة ثابتة.'],
  ['delta','إظهار فرق القيمة','Value Delta','قيمة أساسية ثم مقدار التغير المرتبط بها.'],
  ['progress','مؤشر تقدم','Progress Fill','امتلاء يصل إلى نسبة محددة ويستقر.'],
- ['build-total','بناء المجموع','Build the Total','دخول البنود ثم إضافة أثرها إلى المجموع.'],
+ ['build-total','بناء المجموع','Build the Total','اشتراك 100، ثم تجهيز 50، ثم شحن 30؛ المجموع يستقر على 100 ثم 150 ثم 180.'],
  ['budget-usage','الميزانية والاستخدام','Budget and Usage','مبلغ مستخدم داخل ميزانية، بلا جمع مزدوج.'],
  ['bill-items','بنود فاتورة تتكشف','Invoice Reveal','بنود مستقلة تظهر بقيمها ثم الإجمالي.'],
  ['digit-space','إفساح مكان لرقم أكبر','Digit Reflow','توسع حيز الرقم مع بقاء الوحدة واضحة.'],
@@ -130,4 +130,4 @@ export const groups=[
  ['pin-target','تحديد موضع داخل رسم','Target Pin','علامة تحدد موضعًا وظيفيًا.'],
  ['warning','تنبيه حالة مهمة','State Warning','تغير حالة واضح يتبعه تنبيه قصير.']]]
 ];
-export const motions=groups.flatMap((group,g)=>group[4].map((row,i)=>({id:'M'+String(g*12+i+1).padStart(3,'0'),key:row[0],name:row[1],english:row[2],description:row[3],category:group[0],categoryName:group[1],index:i,source:group[3],referenceUrl:'https://github.com/'+group[3],duration:5.4,provenance:'original_demo',productionStatus:'preview_only',keywords:group[1]+' '+group[2]+' '+row.join(' ')})));
+export const motions=groups.flatMap((group,g)=>group[4].map((row,i)=>({id:'M'+String(g*12+i+1).padStart(3,'0'),key:row[0],name:row[1],english:row[2],description:row[3],category:group[0],categoryName:group[1],index:i,source:group[3],referenceUrl:'https://github.com/'+group[3],duration:row[0]==='build-total'?9.6:5.4,provenance:'original_demo',productionStatus:'preview_only',keywords:group[1]+' '+group[2]+' '+row.join(' ')})));

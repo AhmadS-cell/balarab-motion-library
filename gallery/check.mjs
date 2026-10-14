@@ -14,7 +14,7 @@ const counts=[];
 const fingerprints=new Set();
 for(const m of motions){
  const frames=[];
- for(const sec of [0,.9,1.8,2.7,3.6,4.5,5.39,5.4]) {
+ for(const sec of [0,m.duration/6,m.duration/3,m.duration/2,m.duration*2/3,m.duration*5/6,m.duration-.01,m.duration]) {
   const commands=[];
   const ctx=new Proxy({}, {get(target,name){if(name==='canvas')return {width:640,height:420};return function(){const args=Array.from(arguments);for(const x of args)if(typeof x==='number')assert.ok(Number.isFinite(x),m.id+' '+name);commands.push([name,args]);};},set(target,name,value){if(typeof value==='number')assert.ok(Number.isFinite(value),m.id+' '+name);commands.push([name,value]);return true;}});
   drawMotion(ctx,m,sec);frames.push(JSON.stringify(commands));

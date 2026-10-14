@@ -31,12 +31,43 @@ function phrase(c,p,i){const words=['عميلك','شاهد','المنتج'];cons
  if(i===10){text(c,'قيمة الطلب',390,203,29);text(c,Math.round(lerp(100,120,q)),209,203,45,C.blue);text(c,'ريال',209,250,19,C.muted);}
  if(i===11){const a=phase(p,0,.26),b=phase(p,.48,.7);c.save();c.globalAlpha=p<.4?a:1-phase(p,.3,.44);text(c,'عميلك شاهد المنتج',320,210,32);c.restore();c.save();c.globalAlpha=b;text(c,'ثم اتخذ قرار الطلب',320,210,32);c.restore();}
 }
+export const totalBuildSteps=[
+ {label:'اشتراك',amount:100,enter:.3,enterEnd:.85,addStart:1.25,addEnd:1.8,total:100},
+ {label:'تجهيز',amount:50,enter:3.2,enterEnd:3.75,addStart:4.15,addEnd:4.75,total:150},
+ {label:'شحن',amount:30,enter:6.15,enterEnd:6.7,addStart:7.1,addEnd:7.7,total:180}
+];
+export function buildTotalState(seconds){
+ const visibleSteps=totalBuildSteps.filter(step=>seconds>=step.enter);
+ const addedSteps=totalBuildSteps.filter(step=>seconds>=step.addEnd);
+ return {visibleSteps,addedSteps,total:addedSteps.reduce((sum,step)=>sum+step.amount,0)};
+}
+function buildTotal(c,seconds){
+ const state=buildTotalState(seconds);
+ totalBuildSteps.forEach((step,k)=>{
+  if(seconds<step.enter)return;
+  const entered=ease((seconds-step.enter)/(step.enterEnd-step.enter));
+  const y=77+k*67,x=180+(1-entered)*28;
+  c.save();c.globalAlpha=entered;box(c,x,y,280,54,C.white,8,seconds>=step.addEnd?C.line:C.orange);
+  text(c,step.label,x+247,y+27,22,C.ink,'right');text(c,step.amount,x+42,y+27,28,C.blue);c.restore();
+ });
+ box(c,148,305,344,75,C.white,10,C.line);text(c,'المجموع',452,342,24,C.ink,'right');
+ const last=state.addedSteps[state.addedSteps.length-1];
+ const pulse=last?Math.max(0,1-(seconds-last.addEnd)/.25):0;
+ text(c,state.total,219,342,42+pulse*3,C.blue);
+ totalBuildSteps.forEach((step,k)=>{
+  if(seconds<step.addStart||seconds>=step.addEnd)return;
+  const move=ease((seconds-step.addStart)/(step.addEnd-step.addStart));
+  const x=219+Math.sin(move*Math.PI)*54,y=lerp(104+k*67,282,move);
+  box(c,x-35,y-16,70,32,C.orange,8,null);text(c,'\u2066+'+step.amount+'\u2069',x,y,22,C.ink);
+ });
+}
 function numbers(c,p,i){const q=phase(p),value=Math.round(120*q);if(i===0){card(c,320,210,275,185,'قيمة الطلب',value+' ريال');}
  if(i===1){product(c,270,214,.85);box(c,388,161,122,101,C.white,8);text(c,p<.4?'100':p>.5?'120':'',449,198,38,C.blue);text(c,'ريال',449,239,19,C.muted);}
  if(i===2){box(c,202,149,236,118,C.ink,12);c.save();c.beginPath();c.rect(213,158,216,101);c.clip();const a=Math.floor(p*30);const f=(p*30)%1;text(c,String(90+a),320,210-f*83,59,C.white);text(c,String(91+a),320,293-f*83,59,C.white);c.restore();}
  if(i===3){card(c,279,204,205,160,'السابق','100');c.save();c.globalAlpha=q;box(c,397,176,95,60,'#d9eddf',9,null);text(c,'+20',444,207,31,C.green);c.restore();text(c,'فرق القيمة',320,320,23,C.muted);}
  if(i===4){box(c,145,183,350,45,'#e4e7df',22,null);box(c,495-350*.72*q,183,Math.max(1,350*.72*q),45,C.blue,22,null);text(c,Math.round(q*72)+'%',320,133,48);}
- if(i===5||i===7){const labels=['اشتراك','تجهيز','شحن'],values=[100,50,30];let total=0;if(i===7){box(c,164,52,312,311,C.white,4);text(c,'عرض تكلفة',320,77,21);line(c,184,99,456,99,C.line,2);}labels.forEach((s,k)=>{const z=phase(p,k*.15,k*.15+.23);if(z>.02){const y=(i===7?110:74)+k*(i===7?56:66);if(i===5)box(c,180,y,280,53,C.white,7);text(c,s,430,y+26,20,C.ink,'right');text(c,Math.round(values[k]*z),215,y+26,23,C.blue);total+=Math.round(values[k]*z);}});line(c,180,293,460,293,C.ink,2);text(c,'المجموع',419,325,22);text(c,total,223,325,38,C.blue);}
+ if(i===5)buildTotal(c,p*9.6);
+ if(i===7){const labels=['اشتراك','تجهيز','شحن'],values=[100,50,30];let total=0;box(c,164,52,312,311,C.white,4);text(c,'عرض تكلفة',320,77,21);line(c,184,99,456,99,C.line,2);labels.forEach((s,k)=>{const z=phase(p,k*.15,k*.15+.23);if(z>.02){const y=110+k*56;text(c,s,430,y+26,20,C.ink,'right');text(c,Math.round(values[k]*z),215,y+26,23,C.blue);total+=Math.round(values[k]*z);}});line(c,180,293,460,293,C.ink,2);text(c,'المجموع',419,325,22);text(c,total,223,325,38,C.blue);}
  if(i===6){box(c,124,125,392,186,C.white,13);text(c,'ميزانية الرسائل',320,165,24);text(c,'100 ريال',320,214,42);box(c,160,265,320,16,'#e4e8df',8,null);box(c,480-320*.3*q,265,Math.max(1,320*.3*q),16,C.blue,8,null);text(c,'استخدام '+Math.round(30*q)+' / متبقي '+(100-Math.round(30*q)),320,335,20,C.muted);}
  if(i===8){const n=Math.round(90+1110*q),w=140+70*q;box(c,320-w/2,150,w,110,C.white,10);text(c,n,320,196,47,C.blue);text(c,'ريال',320,237,19,C.muted);}
  if(i===9){text(c,'جزآن من نفس المجموع',320,127,25);box(c,130,190,380,62,'#e5e8e0',8,null);box(c,510-380*.6*q,190,Math.max(1,380*.6*q),62,C.blue,8,null);text(c,'60%',440,282,25,C.blue);text(c,'40%',202,282,25,C.muted);}
