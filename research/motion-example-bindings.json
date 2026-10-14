@@ -1,0 +1,291 @@
+[
+  {
+    "id": "M088",
+    "name": "عدسة تكشف تفصيلًا",
+    "source": "ethanselzer/react-image-magnify",
+    "code": "https://github.com/ethanselzer/react-image-magnify/blob/master/src/EnlargedImage.js",
+    "example": "https://ethanselzer.github.io/react-image-magnify/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ عربية لمبدأ أخذ التكبير من موضع العدسة الفعلي؛ الرسم والمسار من المكتبة."
+  },
+  {
+    "id": "M089",
+    "name": "إبراز خصائص المنتج",
+    "source": "pmndrs/drei",
+    "code": "https://github.com/pmndrs/drei/blob/master/.storybook/stories/HTML.stories.tsx",
+    "example": "https://drei.pmnd.rs/?path=/story/misc-html--html-st",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "استلهمت ربط الشرح بموضع الجسم من مثال Html. التتابع والرسم العربي تنفيذ المكتبة."
+  },
+  {
+    "id": "M090",
+    "name": "فتح العبوة",
+    "source": "uuuulala/Threejs-folding-cardboard-box-tutorial",
+    "code": "https://github.com/uuuulala/Threejs-folding-cardboard-box-tutorial/blob/master/js/main.js",
+    "example": "https://tympanus.net/Tutorials/OnScrollFoldingCardboardBox/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "مرجع الغطاء والمفاصل هو صندوق Codrops. خروج المنتج واستقراره بجانبه تنفيذ أصلي حسب توجيهك، وليس من المثال."
+  },
+  {
+    "id": "M094",
+    "name": "تبديل منتج داخل نافذة",
+    "source": "DavidHDev/react-bits",
+    "code": "https://github.com/DavidHDev/react-bits/blob/main/src/content/Components/Carousel/Carousel.jsx",
+    "example": "https://reactbits.dev/components/carousel",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ لسلوك Slide داخل نافذة ثابتة من مثال Carousel، برسوم عربية أصلية."
+  },
+  {
+    "id": "M096",
+    "name": "مقارنة تشطيب المنتج",
+    "source": "sneas/img-comparison-slider",
+    "code": "https://github.com/sneas/img-comparison-slider/blob/master/packages/img-comparison-slider/README.md",
+    "example": "https://img-comparison-slider.sneas.io/examples.html",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ لسلوك فاصل مقارنة الصورتين على منتج ثابت، دون تفكيك أجزائه."
+  },
+  {
+    "id": "M105",
+    "name": "تبادل البطاقات بعمق",
+    "source": "DavidHDev/react-bits",
+    "code": "https://github.com/DavidHDev/react-bits/blob/main/src/content/Components/CardSwap/CardSwap.jsx",
+    "example": "https://reactbits.dev/components/card-swap",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "مستوحى من خروج البطاقة الأمامية وتقدم الرزمة وعودتها إلى الخلف. الرسم والتوقيت إعادة تنفيذ أصلية."
+  },
+  {
+    "id": "M107",
+    "name": "توسيع المنتج إلى تفاصيله",
+    "source": "motiondivision/motion",
+    "code": "https://github.com/motiondivision/motion/blob/main/dev/react/src/tests/layout-shared-lightbox-crossfade.tsx",
+    "example": "https://motion.dev/examples/react-shared-layout-animation",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "نفس العنصر ينتقل من البطاقة إلى العرض الكبير، استنادًا إلى shared layout. المثال العربي إعادة تنفيذ."
+  },
+  {
+    "id": "M108",
+    "name": "تقدم البطاقات من العمق",
+    "source": "DavidHDev/react-bits",
+    "code": "https://github.com/DavidHDev/react-bits/blob/main/src/content/Components/DepthCarousel/DepthCarousel.jsx",
+    "example": "https://reactbits.dev/components/depth-carousel",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ لقواعد ترتيب العمق والحجم وتقدم البطاقات من مثال Depth Carousel، مع حفظ اتجاه العربية."
+  },
+  {
+    "id": "M121",
+    "name": "هبوط بطاقة بارتداد خفيف",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/src/easings/spring/index.js",
+    "example": "https://animejs.com/easing-editor/spring/snappy",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M122",
+    "name": "عنصر يتبع انحناء الطريق",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/src/svg/motionpath.js",
+    "example": "https://animejs.com/documentation/svg/createmotionpath/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M123",
+    "name": "البيانات تتغير على نفس المحاور",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/src/svg/morphto.js",
+    "example": "https://animejs.com/documentation/svg/morphto/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M124",
+    "name": "رسم العنصر ثم ملؤه",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/src/svg/drawable.js",
+    "example": "https://animejs.com/documentation/svg/createdrawable/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M125",
+    "name": "موجة من موضع الحدث",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/examples/advanced-grid-staggering/index.js",
+    "example": "https://animejs.com/documentation/utilities/stagger/stagger-parameters/stagger-grid",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M126",
+    "name": "تتابع يلحق حركة المؤشر",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/examples/animatable-follow-cursor/index.js",
+    "example": "https://animejs.com/documentation/animatable/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M127",
+    "name": "نقل بند بين حالتين",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/examples/auto-layout/todo-list/index.js",
+    "example": "https://codepen.io/collection/yykPaw",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M128",
+    "name": "نفس العناصر من شبكة إلى قائمة",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/examples/auto-layout/grid-columns/index.js",
+    "example": "https://animejs.com/documentation/layout/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M129",
+    "name": "تتابع حول دورة تشغيل",
+    "source": "juliangarnier/anime",
+    "code": "https://github.com/juliangarnier/anime/blob/master/examples/timeline-seamless-loop/index.js",
+    "example": "https://animejs.com/documentation/timeline/",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M130",
+    "name": "بطاقة تقلب لتكشف الوجه الثاني",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/flip-card/src/App.tsx",
+    "example": "https://codesandbox.io/s/cju2d",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M131",
+    "name": "فتح مساحة ثم كشف محتواها",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/chain/src/App.tsx",
+    "example": "https://codesandbox.io/s/q6ffu",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M132",
+    "name": "كشف مستويات شجرة",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/tree/src/App.tsx",
+    "example": "https://codesandbox.io/s/nlzui",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M133",
+    "name": "تكبير قريب من المؤشر",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/macos-dock/src/components/DockCard/index.tsx",
+    "example": "https://codesandbox.io/s/6zchkl",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M134",
+    "name": "ترتيب بطاقات متفاوتة الطول",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/masonry/src/App.tsx",
+    "example": "https://codesandbox.io/s/mdovb",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M135",
+    "name": "اندفاع يتباطأ ويقف",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/rocket-decay/src/App.tsx",
+    "example": "https://codesandbox.io/s/ko4c6",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M136",
+    "name": "طابور إشعارات يفسح مكانًا",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/notification-hub/src/App.tsx",
+    "example": "https://codesandbox.io/s/v1i1t",
+    "exampleVideoUrl": "https://www.facebook.com/reel/4883517721896141",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض. طابور الإشعارات ظاهر أيضًا في فيديو المرجع عند 24 ثانية."
+  },
+  {
+    "id": "M137",
+    "name": "حذف بند ثم إغلاق فجوة",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/multistage-transition/src/App.tsx",
+    "example": "https://codesandbox.io/s/k467x",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M138",
+    "name": "عنصر ثابت وشرح يمر بجانبه",
+    "source": "pmndrs/react-spring",
+    "code": "https://github.com/pmndrs/react-spring/blob/next/demo/src/sandboxes/parallax-sticky/src/App.tsx",
+    "example": "https://codesandbox.io/s/3hsg6",
+    "provenance": "behavior_adaptation_original_canvas",
+    "note": "إعادة تنفيذ Canvas مستقلة للسلوك، مع رسوم عربية. مثال المصدر وكوده محددان؛ لم يشغل مكونه داخل المعرض."
+  },
+  {
+    "id": "M139",
+    "name": "بارالاكس طبقات العمق",
+    "source": "juliangarnier/anime",
+    "code": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/expansion.js",
+    "example": "https://www.facebook.com/reel/4883517721896141",
+    "provenance": "reference_video_behavior_original_canvas",
+    "note": "السلوك مسمى وظاهر في فيديو المرجع عند 64 ثانية. هذه معاينة أصلية بهوية بالعرب؛ الكود كود المكتبة، ولا ينسب إلى مؤلف بنك الفيديو. منحنى الأصل غير مقاس بسبب تصوير الشاشة."
+  },
+  {
+    "id": "M140",
+    "name": "دولي زوم مع ثبات البطل",
+    "source": "juliangarnier/anime",
+    "code": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/expansion.js",
+    "example": "https://www.facebook.com/reel/4883517721896141",
+    "provenance": "reference_video_behavior_original_canvas",
+    "note": "السلوك مسمى وظاهر في فيديو المرجع عند 64 ثانية. هذه معاينة أصلية بهوية بالعرب؛ الكود كود المكتبة، ولا ينسب إلى مؤلف بنك الفيديو. منحنى الأصل غير مقاس بسبب تصوير الشاشة."
+  },
+  {
+    "id": "M141",
+    "name": "صوت يسبق الصورة",
+    "source": "juliangarnier/anime",
+    "code": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/expansion.js",
+    "example": "https://www.facebook.com/reel/4883517721896141",
+    "provenance": "reference_video_behavior_original_canvas",
+    "note": "السلوك مسمى وظاهر في فيديو المرجع عند 36 ثانية. هذه معاينة أصلية بهوية بالعرب؛ الكود كود المكتبة، ولا ينسب إلى مؤلف بنك الفيديو. منحنى الأصل غير مقاس بسبب تصوير الشاشة."
+  },
+  {
+    "id": "M142",
+    "name": "اهتزاز كاميرا خفيف",
+    "source": "juliangarnier/anime",
+    "code": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/expansion.js",
+    "example": "https://www.facebook.com/reel/4883517721896141",
+    "provenance": "reference_video_behavior_original_canvas",
+    "note": "السلوك مسمى وظاهر في فيديو المرجع عند 78 ثانية. هذه معاينة أصلية بهوية بالعرب؛ الكود كود المكتبة، ولا ينسب إلى مؤلف بنك الفيديو. منحنى الأصل غير مقاس بسبب تصوير الشاشة."
+  },
+  {
+    "id": "M143",
+    "name": "مط الكشيدة مع اتصال العربية",
+    "source": "juliangarnier/anime",
+    "code": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/expansion.js",
+    "example": "https://www.facebook.com/reel/4883517721896141",
+    "provenance": "reference_video_behavior_original_canvas",
+    "note": "السلوك مسمى وظاهر في فيديو المرجع عند 86 ثانية. هذه معاينة أصلية بهوية بالعرب؛ الكود كود المكتبة، ولا ينسب إلى مؤلف بنك الفيديو. منحنى الأصل غير مقاس بسبب تصوير الشاشة."
+  },
+  {
+    "id": "M144",
+    "name": "زوم داخل نقطة دلالية",
+    "source": "juliangarnier/anime",
+    "code": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/expansion.js",
+    "example": "https://www.facebook.com/reel/4883517721896141",
+    "provenance": "reference_video_behavior_original_canvas",
+    "note": "السلوك مسمى وظاهر في فيديو المرجع عند 92 ثانية. هذه معاينة أصلية بهوية بالعرب؛ الكود كود المكتبة، ولا ينسب إلى مؤلف بنك الفيديو. منحنى الأصل غير مقاس بسبب تصوير الشاشة."
+  }
+]

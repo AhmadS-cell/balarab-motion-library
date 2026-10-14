@@ -1,0 +1,49 @@
+{
+  "source": "https://www.facebook.com/reel/4883517721896141",
+  "checked_date": "2026-10-14",
+  "duration_seconds": 108.87551,
+  "dimensions": [
+    540,
+    960
+  ],
+  "evidence": "55 coarse frames and 64 fine frames inspected; source video and images retained locally only",
+  "mappings": [
+    {
+      "id": "M136",
+      "name": "Notification Queue",
+      "seconds": 24
+    },
+    {
+      "id": "M139",
+      "name": "Depth Parallax",
+      "seconds": 64
+    },
+    {
+      "id": "M140",
+      "name": "Dolly Zoom",
+      "seconds": 64
+    },
+    {
+      "id": "M141",
+      "name": "J-cut Timeline",
+      "seconds": 36
+    },
+    {
+      "id": "M142",
+      "name": "Gentle Handheld",
+      "seconds": 78
+    },
+    {
+      "id": "M143",
+      "name": "Kashida Stretch",
+      "seconds": 86
+    },
+    {
+      "id": "M144",
+      "name": "Dot Zoom",
+      "seconds": 92
+    }
+  ],
+  "adaptation": "Original Arabic Canvas behavior illustrations; not copied bank code, graphics or video",
+  "limits": "Handheld filming prevents precise reconstruction of original easing; audio not auditioned or waveform-aligned"
+}

@@ -1,3 +1,5 @@
+import {motionReferences,revisedDurations} from './references.js';
+import {expansionMotions} from './expansion-data.js';
 export const groups=[
  ['text','النص والكابتشن','Typography','remotion-dev/remotion',[
  ['word-highlight','هايلايت الكلمة المنطوقة','Spoken Word Highlight','تتبّع الكلمة داخل عبارة عربية كاملة.'],
@@ -94,15 +96,15 @@ export const groups=[
  ['product-lift','منتج يرتفع ويستقر','Product Lift','حركة رفع وظل يوضحان عمق المنتج.'],
  ['product-turn','تغيير زاوية المنتج','Product Turn','زاوية مبسطة تكشف جانبًا من المنتج.'],
  ['product-zoom','تقريب خاصية منتج','Product Zoom','اقتراب إلى الخاصية دون تغيير الهوية.'],
- ['product-detail','عدسة تكشف تفصيلًا','Detail Lens','عدسة تمر فوق خاصية لتوضيحها.'],
- ['product-layers','فصل طبقات المنتج','Product Layers','طبقات تنفصل ثم تعود إلى أصلها.'],
- ['unbox','فتح العبوة','Unboxing','غطاء ينفتح ثم يظهر نفس المنتج.'],
+ ['product-detail','عدسة تكشف تفصيلًا','Detail Lens','عدسة تكبّر مكانها الفعلي؛ تبدأ فوق فراغ ثم تمر بالحافة وتستقر فوق 250 مل.'],
+ ['product-callouts','إبراز خصائص المنتج','Feature Callouts','نقاط ثابتة على المنتج تكشف شرح الخاصية بالتتابع. بديل فصل الطبقات.'],
+ ['unbox','فتح العبوة','Unboxing','غطاء يفتح حول مفصله، ثم يخرج المنتج من داخل العبوة ويستقر بجانبها.'],
  ['color-options','خيارات لون المنتج','Color Options','تبديل لون داخل جسم المنتج نفسه.'],
- ['assembly','تجميع أجزاء منتج','Product Assembly','أجزاء تصل إلى مواضعها وتكتمل.'],
+ ['assembly','تجميع أجزاء منتج','Product Assembly','الجسم ثابت، ثم يركب الغطاء ويلتصق اللابل بموضعه الصحيح.'],
  ['spotlight','إضاءة على خاصية','Product Spotlight','ضوء يوجه التركيز لجزء من المنتج.'],
- ['reflection','انعكاس هادئ','Reflection Sweep','مرور انعكاس قصير يوضح السطح.'],
+ ['product-carousel','تبديل منتج داخل نافذة','Product Carousel','خيار يغادر النافذة ويصل التالي إلى مكانه. بديل الانعكاس.'],
  ['texture','كشف ملمس المنتج','Texture Reveal','منطقة تتكشف لإظهار تفصيل السطح.'],
- ['explode','تفكيك وعودة','Exploded View','انفصال أجزاء لشرح البنية ثم عودتها.']]],
+ ['finish-compare','مقارنة تشطيب المنتج','Finish Comparison','فاصل يكشف لونين على نفس الشكل، مع ثبات المنتج. بديل التفكيك والعودة.']]],
  ['transition','الانتقال بين المشاهد','Transitions','juliangarnier/anime',[
  ['wipe','كشف اتجاهي','Directional Wipe','مشهد جديد يكشف من اليمين.'],
  ['iris','كشف دائري من الفعل','Iris Reveal','دائرة تنطلق من نقطة التركيز.'],
@@ -112,10 +114,10 @@ export const groups=[
  ['focus-transition','انتقال عمق التركيز','Focus Shift','تبدل وضوح المشهدين دون تراكب كتابتهما.'],
  ['diagonal','قناع قطري','Diagonal Reveal','قناع قطري يكشف الكادر التالي.'],
  ['shutter','كشف بستائر','Shutter Reveal','مقاطع تنفتح بتتابع بسيط.'],
- ['page-turn','تحول الصفحة','Page Turn','صفحة تنكمش ثم تتكشف التالية.'],
+ ['card-swap','تبادل البطاقات بعمق','Card Swap','البطاقة الأمامية تنسحب، ثم تتقدم التالية وتعود الأولى إلى الخلف. بديل تحول الصفحة.'],
  ['color-dip','جسر لون قصير','Dip to Color','لون وسيط قصير بين حالتين.'],
- ['shape-morph','تحول شكل إلى وجهة','Shape Morph','شكل ينتقل إلى هيئة مناسبة للنتيجة.'],
- ['parallax','انتقال طبقات بعمق','Parallax Bridge','طبقات بسرعات مختلفة تحفظ سياق الانتقال.']]],
+ ['shared-expansion','توسيع المنتج إلى تفاصيله','Shared Layout Expansion','نفس المنتج يستمر من بطاقته إلى عرض التفاصيل. بديل تحول الشكل.'],
+ ['depth-carousel','تقدم البطاقات من العمق','Depth Carousel','البطاقة الخلفية تكبر إلى المقدمة، مع ترتيب صحيح للحجب والحجم.']]],
  ['emphasis','التأكيد والتوقيت','Emphasis','maxwellito/vivus',[
  ['check-draw','رسم تأكيد النجاح','Check Draw','علامة نجاح ترسم بعد اكتمال الفعل.'],
  ['loss-exit','خروج العميل مع X','Customer Loss','شخصية تغادر ثم يتضح الفقد وتختفي.'],
@@ -130,4 +132,6 @@ export const groups=[
  ['pin-target','تحديد موضع داخل رسم','Target Pin','علامة تحدد موضعًا وظيفيًا.'],
  ['warning','تنبيه حالة مهمة','State Warning','تغير حالة واضح يتبعه تنبيه قصير.']]]
 ];
-export const motions=groups.flatMap((group,g)=>group[4].map((row,i)=>({id:'M'+String(g*12+i+1).padStart(3,'0'),key:row[0],name:row[1],english:row[2],description:row[3],category:group[0],categoryName:group[1],index:i,source:group[3],referenceUrl:'https://github.com/'+group[3],duration:row[0]==='build-total'?9.6:5.4,provenance:'original_demo',productionStatus:'preview_only',keywords:group[1]+' '+group[2]+' '+row.join(' ')})));
+export const motions=groups.flatMap((group,g)=>group[4].map((row,i)=>{const id='M'+String(g*12+i+1).padStart(3,'0'),ref=motionReferences[id];return {id,key:row[0],name:row[1],english:row[2],description:row[3],category:group[0],categoryName:group[1],index:i,source:ref?.source||group[3],referenceUrl:ref?.code||'https://github.com/'+group[3],referenceTitle:ref?.title,exampleUrl:ref?.demo,referenceNote:ref?.note,duration:revisedDurations[id]||(row[0]==='build-total'?9.6:5.4),provenance:ref?'behavior_adaptation_original_canvas':'original_demo',productionStatus:'preview_only',keywords:group[1]+' '+group[2]+' '+row.join(' ')};})).concat(expansionMotions);
+groups.push(['smooth','الحركة السلسة والشرح','Smooth Explainers','juliangarnier/anime',expansionMotions.filter(m=>m.category==='smooth').map(m=>[m.key,m.name,m.english,m.description])]);
+groups.push(['video-reference','من مرجع الفيديو','Video Reference','juliangarnier/anime',expansionMotions.filter(m=>m.category==='video-reference').map(m=>[m.key,m.name,m.english,m.description])]);

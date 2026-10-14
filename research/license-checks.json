@@ -36,5 +36,29 @@
     "url": null,
     "path": null,
     "spdx": null
+  },
+  {
+    "repo": "ethanselzer/react-image-magnify",
+    "status": 200,
+    "url": "https://github.com/ethanselzer/react-image-magnify/blob/master/LICENSE",
+    "path": "LICENSE",
+    "spdx": "MIT",
+    "excerpt": "MIT License\n\nCopyright (c) 2016 Ethan Selzer\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal"
+  },
+  {
+    "repo": "uuuulala/Threejs-folding-cardboard-box-tutorial",
+    "status": 200,
+    "url": "https://github.com/uuuulala/Threejs-folding-cardboard-box-tutorial/blob/master/LICENSE",
+    "path": "LICENSE",
+    "spdx": "MIT",
+    "excerpt": "MIT License\n\nCopyright (c) 2009 - 2021 [Codrops](https://tympanus.net/codrops)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentati"
+  },
+  {
+    "repo": "sneas/img-comparison-slider",
+    "status": 200,
+    "url": "https://github.com/sneas/img-comparison-slider/blob/master/LICENSE",
+    "path": "LICENSE",
+    "spdx": "MIT",
+    "excerpt": "MIT License\n\nCopyright (c) 2019 Dmytro Snisarenko\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to"
   }
 ]

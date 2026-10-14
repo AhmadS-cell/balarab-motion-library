@@ -6,9 +6,9 @@ import {spawnSync} from 'node:child_process';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const catalog=JSON.parse(await fs.readFile(path.join(root,'catalog.json'),'utf8'));
 const patterns=JSON.parse(await fs.readFile(path.join(root,'patterns.json'),'utf8')).patterns;
-assert.equal(catalog.entries.length,33);
+assert.equal(catalog.entries.length,36);
 assert.equal(patterns.length,20);
-assert.equal(new Set(catalog.entries.map(x=>x.id)).size,33);
+assert.equal(new Set(catalog.entries.map(x=>x.id)).size,36);
 assert.equal(new Set(patterns.map(x=>x.id)).size,20);
 const repositories=new Set(catalog.entries.map(x=>x.repository));
 for(const row of catalog.entries) {
@@ -53,4 +53,4 @@ const noResults=spawnSync(process.execPath,[path.join(root,'scripts/find.mjs'),'
 assert.deepEqual(JSON.parse(noResults.stdout),[]);
 const badCategory=spawnSync(process.execPath,[path.join(root,'scripts/find.mjs'),'--category','invalid'],{encoding:'utf8'});
 assert.notEqual(badCategory.status,0);
-console.log(JSON.stringify({sources:33,patterns:20,categories:Object.keys(catalog.categories).length,source_and_pattern_integrity:'pass',internal_links:'pass',text_rules:'pass',search_smoke_checks:'pass',arabic_video_render:'not_performed',continuous_playback:'not_performed',audition:'not_performed'}));
+console.log(JSON.stringify({sources:36,patterns:20,categories:Object.keys(catalog.categories).length,source_and_pattern_integrity:'pass',internal_links:'pass',text_rules:'pass',search_smoke_checks:'pass',arabic_video_render:'not_performed',continuous_playback:'not_performed',audition:'not_performed'}));

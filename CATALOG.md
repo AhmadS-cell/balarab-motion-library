@@ -194,6 +194,19 @@
 - **الحدود:** تفحص تراخيص صور البيئة والموديلات؛ أدوات النص ثلاثي الأبعاد تحتاج تجربة عربية منفصلة.
 - **الترخيص:** [MIT](https://github.com/pmndrs/drei/blob/master/README.md#license).
 
+### Codrops Folding Cardboard Box
+
+مثال عملي لطي صندوق وفتح أغطية بمفاصل ثابتة.
+
+- **المصدر:** [uuuulala/Threejs-folding-cardboard-box-tutorial](https://github.com/uuuulala/Threejs-folding-cardboard-box-tutorial) · [README](https://github.com/uuuulala/Threejs-folding-cardboard-box-tutorial/blob/master/README.md) · [معاينة المصدر](https://tympanus.net/Tutorials/OnScrollFoldingCardboardBox/)
+- **الاهتمام:** 50 نجمة، 22 fork؛ التحقق 2026-10-14.
+- **الاختيار لبالعرب:** مفيد بعد التكييف.
+- **حركات مفيدة:** box-hinge.
+- **العربية وRTL:** تكييف هندسة المفصل. خروج المنتج واستقراره بجانب العبوة تنفيذ مستقل.
+- **طريق الفيديو:** مسار ويب أو رسوم؛ يلزم تحكم بالإطارات ثم التقاطها أو إدماجها في محرك فيديو.
+- **الحدود:** مرجع سلوك؛ لا يثبت النجاح في الريلز أو دعم العربية دون تكييف.
+- **الترخيص:** [MIT](https://github.com/uuuulala/Threejs-folding-cardboard-box-tutorial/blob/master/LICENSE).
+
 ## رسم 2D
 
 ### PixiJS
@@ -275,6 +288,32 @@
 - **طريق الفيديو:** مسار ويب أو رسوم؛ يلزم تحكم بالإطارات ثم التقاطها أو إدماجها في محرك فيديو.
 - **الحدود:** يستجيب لتغير DOM وقت التشغيل؛ اقتبس السلوك وابنه بحساب الإطارات للفيديو.
 - **الترخيص:** [MIT](https://github.com/formkit/auto-animate/blob/master/README.md#license).
+
+### React Image Magnify
+
+عدسة تكبير للصورة تعتمد موضع المؤشر وإحداثيات المصدر.
+
+- **المصدر:** [ethanselzer/react-image-magnify](https://github.com/ethanselzer/react-image-magnify) · [README](https://github.com/ethanselzer/react-image-magnify/blob/master/README.md) · [معاينة المصدر](https://ethanselzer.github.io/react-image-magnify/)
+- **الاهتمام:** 662 نجمة، 162 fork؛ التحقق 2026-10-14.
+- **الاختيار لبالعرب:** مفيد بعد التكييف.
+- **حركات مفيدة:** detail-lens.
+- **العربية وRTL:** تكبير المحتوى تحت العدسة دون إعادة توسيط المنتج؛ الحفاظ على النص العربي ومكانه.
+- **طريق الفيديو:** مسار ويب أو رسوم؛ يلزم تحكم بالإطارات ثم التقاطها أو إدماجها في محرك فيديو.
+- **الحدود:** مرجع سلوك؛ لا يثبت النجاح في الريلز أو دعم العربية دون تكييف.
+- **الترخيص:** [MIT](https://github.com/ethanselzer/react-image-magnify/blob/master/LICENSE).
+
+### Image Comparison Slider
+
+فاصل لمقارنة صورتين متطابقتي الإطار قبل وبعد.
+
+- **المصدر:** [sneas/img-comparison-slider](https://github.com/sneas/img-comparison-slider) · [README](https://github.com/sneas/img-comparison-slider/blob/master/README.md) · [معاينة المصدر](https://img-comparison-slider.sneas.io/examples.html)
+- **الاهتمام:** 873 نجمة، 58 fork؛ التحقق 2026-10-14.
+- **الاختيار لبالعرب:** مفيد بعد التكييف.
+- **حركات مفيدة:** finish-comparison.
+- **العربية وRTL:** نسختا المنتج ثابتتان وتتطابقان هندسيًا؛ الفاصل وحده يكشف الفرق.
+- **طريق الفيديو:** مسار ويب أو رسوم؛ يلزم تحكم بالإطارات ثم التقاطها أو إدماجها في محرك فيديو.
+- **الحدود:** مرجع سلوك؛ لا يثبت النجاح في الريلز أو دعم العربية دون تكييف.
+- **الترخيص:** [MIT](https://github.com/sneas/img-comparison-slider/blob/master/LICENSE).
 
 ## حركة SVG
 
