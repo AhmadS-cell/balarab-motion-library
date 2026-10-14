@@ -7,3 +7,5 @@
 التطبيق buildless ولا يتطلب تثبيت حزم. ملفات الموقع في dist. لمعاينة محلية: node server.mjs. فحص سلامة المعاينات: node check.mjs. ملفات QA محلية مستبعدة من Git.
 
 هذه نسخة مصدر للرجوع إلى الحركات داخل مستودع المكتبة. الموقع العام في https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site. نسخة النشر الرسمية في D:/Balarab/sites/balarab-motion-gallery،ومعرفها في.openapi/hosting.jsonهناك. بيانات اعتماد النشر لا تحفظ في الملفات.
+
+تحديث السلاسة:144أسلوب توقيت في timing.js،وبداية وتوقف ناعمان وإعادة معاينة بغطاء قصير بعد النتيجة. التفاصيل تعرض اسم التقنية. فحصها:node check-smoothness.mjs. تقرير الأدلة في research/smoothness-review-2026-10-14.json.

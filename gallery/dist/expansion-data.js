@@ -4,7 +4,7 @@ export const expansionMotions=[
     "key": "spring-landing",
     "name": "هبوط بطاقة بارتداد خفيف",
     "english": "Spring Landing",
-    "description": "بطاقة معلومة تصل إلى موضعها ثم تتجاوز قليلًا وتستقر.",
+    "description": "بطاقة معلومة تهبط إلى موضعها، ترتد للأعلى بخفة، ثم تستقر دون اختراق سطحها.",
     "source": "juliangarnier/anime",
     "referenceUrl": "https://github.com/juliangarnier/anime/blob/master/src/easings/spring/index.js",
     "exampleUrl": "https://animejs.com/easing-editor/spring/snappy",

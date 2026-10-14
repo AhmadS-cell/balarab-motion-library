@@ -1,0 +1,1160 @@
+{
+  "date": "2026-10-14",
+  "preview_count": 144,
+  "actual_canvas_frames": 25932,
+  "sampling_fps": 30,
+  "visually_reviewed_atlas_samples": 1152,
+  "atlas_count": 24,
+  "source_hashes": {
+    "render.js": "c1ae555b7a5b9a3cd51d64e826a3df3d4b231fa705588d4ce34307a9258c5340",
+    "expansion.js": "3acdb142950a0772e47d5641184a05670b1e05ca35980f982e31346cd3bc6d8d",
+    "timing.js": "d3e29e843a6c8f68ebbd85a8690a464975ed8b5bb3ada0ce29bc8d347e19e3f8",
+    "motions.js": "c2cdc7d9d2aeae01d3ccf06fb9edbe6fa5592afa5d875712d43651d230664cfb",
+    "expansion-data.js": "397df00c28243f5ccf62570c95e448ed9ef95fad66c2ea1dfb069a2d8ae4fbfe",
+    "app.js": "84cc166fe830d0b1185e8520db7687f541951638e216ec9c436438a37cca5f0a"
+  },
+  "browser_playback": {
+    "status": "completed",
+    "previewCount": 144,
+    "batches": [
+      {
+        "ids": [
+          "M001",
+          "M002",
+          "M003",
+          "M004",
+          "M005",
+          "M006",
+          "M007",
+          "M008",
+          "M009",
+          "M010",
+          "M011",
+          "M012"
+        ],
+        "seconds": 6.33,
+        "frames": 380,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.3
+      },
+      {
+        "ids": [
+          "M013",
+          "M014",
+          "M015",
+          "M016",
+          "M017",
+          "M018",
+          "M019",
+          "M020",
+          "M021",
+          "M022",
+          "M023",
+          "M024"
+        ],
+        "seconds": 10.53,
+        "frames": 632,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.2
+      },
+      {
+        "ids": [
+          "M025",
+          "M026",
+          "M027",
+          "M028",
+          "M029",
+          "M030",
+          "M031",
+          "M032",
+          "M033",
+          "M034",
+          "M035",
+          "M036"
+        ],
+        "seconds": 8.13,
+        "frames": 488,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.3
+      },
+      {
+        "ids": [
+          "M037",
+          "M038",
+          "M039",
+          "M040",
+          "M041",
+          "M042",
+          "M043",
+          "M044",
+          "M045",
+          "M046",
+          "M047",
+          "M048"
+        ],
+        "seconds": 6.33,
+        "frames": 380,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.8
+      },
+      {
+        "ids": [
+          "M049",
+          "M050",
+          "M051",
+          "M052",
+          "M053",
+          "M054",
+          "M055",
+          "M056",
+          "M057",
+          "M058",
+          "M059",
+          "M060"
+        ],
+        "seconds": 8.13,
+        "frames": 488,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.9
+      },
+      {
+        "ids": [
+          "M061",
+          "M062",
+          "M063",
+          "M064",
+          "M065",
+          "M066",
+          "M067",
+          "M068",
+          "M069",
+          "M070",
+          "M071",
+          "M072"
+        ],
+        "seconds": 7.33,
+        "frames": 440,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17
+      },
+      {
+        "ids": [
+          "M073",
+          "M074",
+          "M075",
+          "M076",
+          "M077",
+          "M078",
+          "M079",
+          "M080",
+          "M081",
+          "M082",
+          "M083",
+          "M084"
+        ],
+        "seconds": 7.33,
+        "frames": 438,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 33.4
+      },
+      {
+        "ids": [
+          "M085",
+          "M086",
+          "M087",
+          "M088",
+          "M089",
+          "M090",
+          "M091",
+          "M092",
+          "M093",
+          "M094",
+          "M095",
+          "M096"
+        ],
+        "seconds": 10.43,
+        "frames": 626,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.7
+      },
+      {
+        "ids": [
+          "M097",
+          "M098",
+          "M099",
+          "M100",
+          "M101",
+          "M102",
+          "M103",
+          "M104",
+          "M105",
+          "M106",
+          "M107",
+          "M108"
+        ],
+        "seconds": 8.13,
+        "frames": 488,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.3
+      },
+      {
+        "ids": [
+          "M109",
+          "M110",
+          "M111",
+          "M112",
+          "M113",
+          "M114",
+          "M115",
+          "M116",
+          "M117",
+          "M118",
+          "M119",
+          "M120"
+        ],
+        "seconds": 6.33,
+        "frames": 380,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.2
+      },
+      {
+        "ids": [
+          "M121",
+          "M122",
+          "M123",
+          "M124",
+          "M125",
+          "M126",
+          "M127",
+          "M128",
+          "M129",
+          "M130",
+          "M131",
+          "M132"
+        ],
+        "seconds": 8.13,
+        "frames": 488,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 18.2
+      },
+      {
+        "ids": [
+          "M133",
+          "M134",
+          "M135",
+          "M136",
+          "M137",
+          "M138"
+        ],
+        "seconds": 10.53,
+        "frames": 632,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 17.6
+      },
+      {
+        "ids": [
+          "M139",
+          "M140",
+          "M141",
+          "M142",
+          "M143",
+          "M144"
+        ],
+        "seconds": 9.33,
+        "frames": 560,
+        "p95FrameMs": 16.8,
+        "maxFrameMs": 18.2
+      }
+    ]
+  },
+  "review_method": "Read each timeline, visually inspect eight actual phase frames per motion, scan every rendered frame for pixel discontinuities, inspect changes in browser and verify geometry invariants. Browser frame pacing is separate evidence.",
+  "attraction": "Editorial judgment only. Audience outcomes are not measured.",
+  "production": "Silent previews; no reel, narration, mix, or export approval.",
+  "checks": [
+    "144 identities and references",
+    "M018 causal totals",
+    "square baseline corners",
+    "source-correct lens",
+    "unboxing occlusion and extraction",
+    "grounded shadow",
+    "stable dolly scale",
+    "readable non-mirrored faces",
+    "quiet easing endpoints",
+    "covered replay seams",
+    "non-intersecting rank lanes"
+  ],
+  "mobile": {
+    "viewport": 390,
+    "document_width": 375,
+    "body_scroll_width": 375,
+    "dialog_width": 337,
+    "canvas_width": 288,
+    "evidence": "smoothness-kashida-mobile.png"
+  },
+  "motions": [
+    {
+      "id": "M001",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M002",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M003",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M004",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M005",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M006",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M007",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M008",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M009",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M010",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M011",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M012",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M013",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M014",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M015",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M016",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M017",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M018",
+      "technique": "Sequential Add",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 289
+    },
+    {
+      "id": "M019",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M020",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M021",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M022",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M023",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M024",
+      "technique": "Linear Timer",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M025",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M026",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M027",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M028",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M029",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M030",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M031",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M032",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M033",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M034",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M035",
+      "technique": "Staged Reorder",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M036",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M037",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M038",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M039",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M040",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M041",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M042",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M043",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M044",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M045",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M046",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M047",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M048",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M049",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M050",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M051",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M052",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M053",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M054",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M055",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M056",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M057",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M058",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M059",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M060",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M061",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M062",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M063",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M064",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M065",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M066",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M067",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M068",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M069",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M070",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M071",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M072",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M073",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M074",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M075",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M076",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M077",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M078",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M079",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M080",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M081",
+      "technique": "Fade Reorder",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M082",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M083",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M084",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M085",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M086",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M087",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M088",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 226
+    },
+    {
+      "id": "M089",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M090",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 286
+    },
+    {
+      "id": "M091",
+      "technique": "Discrete Choice",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M092",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M093",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M094",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M095",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M096",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M097",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M098",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M099",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M100",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M101",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M102",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M103",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M104",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M105",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M106",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M107",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M108",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 193
+    },
+    {
+      "id": "M109",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M110",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M111",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M112",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M113",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M114",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M115",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M116",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M117",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M118",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M119",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M120",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 163
+    },
+    {
+      "id": "M121",
+      "technique": "Damped Rebound",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M122",
+      "technique": "Arc Length + Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M123",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M124",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M125",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M126",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M127",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M128",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M129",
+      "technique": "Node Stops",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M130",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M131",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M132",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M133",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M134",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M135",
+      "technique": "Inertia Stop",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M136",
+      "technique": "Stagger + Collapse",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 289
+    },
+    {
+      "id": "M137",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M138",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 217
+    },
+    {
+      "id": "M139",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 253
+    },
+    {
+      "id": "M140",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 253
+    },
+    {
+      "id": "M141",
+      "technique": "J-cut",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 253
+    },
+    {
+      "id": "M142",
+      "technique": "Handheld + Settle",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 253
+    },
+    {
+      "id": "M143",
+      "technique": "Continuous Kashida",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 253
+    },
+    {
+      "id": "M144",
+      "technique": "Ease In Out",
+      "status": "source_and_dense_frame_review_completed",
+      "frames": 253
+    }
+  ]
+}

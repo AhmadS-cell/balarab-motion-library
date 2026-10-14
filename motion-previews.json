@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "preview_origin": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site",
   "categories": {
     "text": "النص والكابتشن",
@@ -32,7 +32,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-highlight هايلايت الكلمة المنطوقة Spoken Word Highlight تتبّع الكلمة داخل عبارة عربية كاملة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M001",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M001"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M001",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M002",
@@ -50,7 +54,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography mask-reveal كشف العبارة بقناع Masked Text Reveal كشف هادئ فوق نص متصل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M002",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M002"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M002",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M003",
@@ -68,7 +76,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-stagger كلمات تدخل بالتتابع Word Stagger دخول كلمات كاملة بتتابع قصير.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M003",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M003"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M003",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M004",
@@ -86,7 +98,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography slide-phrase انزلاق العبارة واستقرارها Phrase Slide دخول عبارة من اليمين ثم استقرارها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M004",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M004"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M004",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M005",
@@ -104,7 +120,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-type كتابة بالكلمات Word Typewriter بناء جملة بكلمات متصلة بدل فصل الحروف.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M005",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M005"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M005",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M006",
@@ -122,7 +142,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-swap تبديل كلمة في مكانها Word Swap تغيير كلمة مع بقاء سياق العبارة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M006",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M006"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M006",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M007",
@@ -140,7 +164,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography underline رسم خط تحت كلمة Underline Draw إبراز كلمة وظيفية بخط يتحرك تحتها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M008",
@@ -158,7 +186,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography keyword-pill تركيز داخل كبسولة Keyword Pill تمييز كلمة بحيز يثبت حولها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M009",
@@ -176,7 +208,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography quote-reveal كشف اقتباس قصير Quote Reveal اقتباس يظهر مع شريط تأكيد جانبي.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M009",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M009"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M009",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M010",
@@ -194,7 +230,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography line-focus تركيز سطر وإبعاد الآخر Line Focus توجيه العين إلى السطر الجاري شرحه.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M010",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M010"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M010",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M011",
@@ -212,7 +252,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography inline-number رقم يتغير داخل العبارة Inline Number قيمة تتغير داخل نفس السطر دون تزاحم.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M011",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M011"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M011",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M012",
@@ -230,7 +274,11 @@
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography caption-bridge جسر بين عبارتين Caption Bridge خروج العبارة الأولى قبل دخول التالية.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M012",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M012"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M012",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M013",
@@ -248,7 +296,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers count-up عداد يرتفع ويستقر Count Up زيادة رقم إلى قيمة تعليمية واضحة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M013",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M013"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M013",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M014",
@@ -266,7 +318,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers price-swap تغيير سعر واحد Price Swap إخفاء السعر السابق ثم إظهار الجديد.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M014",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M014"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M014",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M015",
@@ -279,12 +335,16 @@
       "index": 2,
       "source": "degueba/onda",
       "referenceUrl": "https://github.com/degueba/onda",
-      "duration": 5.4,
+      "duration": 6.4,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers odometer عداد أرقام متدحرج Odometer حركة رأسية للأرقام داخل نافذة ثابتة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M015",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M015"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M015",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M016",
@@ -302,7 +362,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers delta إظهار فرق القيمة Value Delta قيمة أساسية ثم مقدار التغير المرتبط بها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M016",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M016"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M016",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M017",
@@ -320,7 +384,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers progress مؤشر تقدم Progress Fill امتلاء يصل إلى نسبة محددة ويستقر.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M017",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M017"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M017",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M018",
@@ -338,7 +406,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers build-total بناء المجموع Build the Total اشتراك 100، ثم تجهيز 50، ثم شحن 30؛ المجموع يستقر على 100 ثم 150 ثم 180.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M018",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M018"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M018",
+      "motion_timing": {
+        "technique": "Sequential Add",
+        "label": "Sequential Add — بند يصل، ثم يضاف، ثم وقفة لقراءة المجموع."
+      }
     },
     {
       "id": "M019",
@@ -356,7 +428,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers budget-usage الميزانية والاستخدام Budget and Usage مبلغ مستخدم داخل ميزانية، بلا جمع مزدوج.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M019",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M019"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M019",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M020",
@@ -374,7 +450,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers bill-items بنود فاتورة تتكشف Invoice Reveal بنود مستقلة تظهر بقيمها ثم الإجمالي.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M020",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M020"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M020",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M021",
@@ -392,7 +472,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers digit-space إفساح مكان لرقم أكبر Digit Reflow توسع حيز الرقم مع بقاء الوحدة واضحة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M021",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M021"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M021",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M022",
@@ -410,7 +494,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers ratio تقسيم نسبة Ratio Split نسبة داخل شريط ذي جزأين واضحين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M022",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M022"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M022",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M023",
@@ -428,7 +516,11 @@
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers object-count عدّ عناصر مرتبطة Object Counter زيادة العناصر وعددها معًا.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M023",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M023"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M023",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M024",
@@ -441,12 +533,16 @@
       "index": 11,
       "source": "degueba/onda",
       "referenceUrl": "https://github.com/degueba/onda",
-      "duration": 5.4,
+      "duration": 7.2,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers countdown عد تنازلي هادئ Countdown رقم ينخفض داخل حلقة توقيت واضحة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M024",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M024"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M024",
+      "motion_timing": {
+        "technique": "Linear Timer",
+        "label": "Linear Timer — عدّ بالثواني الفعلية مع حلقة مرتبطة بنفس الوقت."
+      }
     },
     {
       "id": "M025",
@@ -464,7 +560,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison ab-focus انتقال التركيز بين A وB A/B Focus تكبير طرف أثناء شرحه مع حفظ الآخر.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M025",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M025"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M025",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M026",
@@ -482,7 +582,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison before-after كشف قبل وبعد Before / After حاجز يكشف الفرق بين حالتين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M027",
@@ -500,7 +604,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison compare-bars عمودان للمقارنة Two Bars نمو قيمتين مع وحدتهما وحفظ العلاقة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M027",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M027"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M027",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M028",
@@ -518,7 +626,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison choice اختيار بين بديلين Choice Selection تمييز خيار ثم ربطه بالنتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M028",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M028"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M028",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M029",
@@ -536,7 +648,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison balance ميزان المقارنة Balance ميل ميزان يظهر اختلاف وزن الخيارين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M029",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M029"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M029",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M030",
@@ -554,7 +670,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison toggle تبديل حالة خيار Toggle State انتقال زر حالة بين خيارين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M031",
@@ -572,7 +692,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison check-cross صح وخطأ Check and Cross إظهار حكم بصري بعد توضيح البديل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M031",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M031"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M031",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M032",
@@ -590,7 +714,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison price-compare مقارنة قيمتين Price Comparison مقارنة قيم مثال داخل بطاقتين متحاذيتين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M032",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M032"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M032",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M033",
@@ -608,7 +736,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison conversion زيارات وطلبات Conversion Comparison تحول جزء من مجموعتين إلى طلبات.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M033",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M033"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M033",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M034",
@@ -626,7 +758,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison overlap-compare مطابقة حالتين Overlay Comparison تقريب شكلين لرؤية الفرق في الحجم.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M034",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M034"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M034",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M035",
@@ -639,12 +775,16 @@
       "index": 10,
       "source": "motiondivision/motion",
       "referenceUrl": "https://github.com/motiondivision/motion",
-      "duration": 5.4,
+      "duration": 7.2,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison rank-options ترتيب البدائل Rank Options إعادة ترتيب الخيارات بحسب قيمة معلنة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M035",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M035"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M035",
+      "motion_timing": {
+        "technique": "Staged Reorder",
+        "label": "Staged Reorder — إفساح مسار، تغيير الترتيب، ثم استقرار دون تداخل."
+      }
     },
     {
       "id": "M036",
@@ -662,7 +802,11 @@
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison verdict نتيجة بين خيارين Comparison Verdict نقل التركيز إلى النتيجة بعد مقارنة الطرفين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M036",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M036"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M036",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M037",
@@ -680,7 +824,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface click ضغط ثم نتيجة Click to Result المؤشر يصل للزر ثم تتغير الحالة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M038",
@@ -698,7 +846,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface input كتابة داخل حقل Input Entry مدخل عربي يظهر داخل حقله ثم يتأكد.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M038",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M038"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M038",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M039",
@@ -716,7 +868,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface search بحث ثم نتيجة Search Result استعلام ثم حالة بحث ثم نتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M040",
@@ -734,7 +890,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface modal فتح نافذة داخلية Modal Open تكبير لوحة مع خفض تركيز الخلفية.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M040",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M040"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M040",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M041",
@@ -752,7 +912,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface drawer فتح قائمة جانبية RTL RTL Drawer قائمة تخرج من الجانب الصحيح.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M041",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M041"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M041",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M042",
@@ -770,7 +934,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface toast إشعار نتيجة Result Toast رسالة قصيرة تظهر بعد اكتمال الفعل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M043",
@@ -788,7 +956,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface dropdown كشف خيارات حقل Dropdown Reveal القائمة تتكشف من الحقل الذي فتحها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M043",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M043"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M043",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M044",
@@ -806,7 +978,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface checkbox تحديد خيار Checkbox Select ضغط يغير حالة مربع اختيار.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M044",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M044"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M044",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M045",
@@ -824,7 +1000,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface add-cart إضافة المنتج للسلة Add to Cart المنتج ينتقل إلى السلة ثم يتغير العدد.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M045",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M045"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M045",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M046",
@@ -842,7 +1022,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface checkout تأكيد خطوة الطلب Checkout Step تتابع خطوة ثم تأكيدها والانتقال للتالية.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M046",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M046"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M046",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M047",
@@ -860,7 +1044,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface tab-change تغيير تبويب Tab Switch مؤشر يتحرك وتتبعه لوحة المحتوى.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M048",
@@ -878,7 +1066,11 @@
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface scroll-focus تمرير إلى تفصيل Scroll to Detail تمرير محتوى موبايل للوصول لعنصر مقصود.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M048",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M048"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M048",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M049",
@@ -896,7 +1088,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow money-route انتقال تكلفة من الطلب Cost Transfer نقود رمزية تخرج من الطلب إلى بند التكلفة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M049",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M049"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M049",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M050",
@@ -914,7 +1110,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow delivery طرد من المتجر إلى العميل Package Delivery طرد يصل من مصدر واضح إلى وجهة واضحة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M050",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M050"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M050",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M051",
@@ -932,7 +1132,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow email-link رسالة ثم رابط المنتج Email to Product رسالة وظيفية تقود إلى نفس المنتج.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M051",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M051"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M051",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M052",
@@ -950,7 +1154,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow data-transfer نقل معلومة Data Transfer بيانات تنتقل بين طرفين وتستقر.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M052",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M052"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M052",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M053",
@@ -968,7 +1176,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow branch تفرع مسار قرار Decision Branch عنصر يصل إلى نقطة قرار ثم يسلك فرعًا.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M053",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M053"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M053",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M054",
@@ -986,7 +1198,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow steps خطوات سبب ونتيجة Causal Steps اكتمال كل فعل يفتح الخطوة التالية.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M054",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M054"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M054",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M055",
@@ -1004,7 +1220,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow notification تنبيه بعد حدث Event Notification حدث يتبعه تنبيه مرتبط به.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M055",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M055"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M055",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M056",
@@ -1022,7 +1242,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow return-loop عودة العميل Return Journey مسار عودة مرتبط بالمنتج نفسه.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M056",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M056"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M056",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M057",
@@ -1040,7 +1264,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow stock-zero نفاد كمية المنتج Stock to Zero عدد المخزون يصل للصفر داخل المنتج.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M057",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M057"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M057",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M058",
@@ -1053,12 +1281,16 @@
       "index": 9,
       "source": "motion-canvas/motion-canvas",
       "referenceUrl": "https://github.com/motion-canvas/motion-canvas",
-      "duration": 5.4,
+      "duration": 7.2,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow merge تجميع في وجهة واحدة Merge Flow عناصر تصل إلى مركز ثم تصبح نتيجة واحدة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M058",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M058"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M058",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M059",
@@ -1076,7 +1308,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow funnel رحلة من زيارة إلى طلب Funnel Journey انتقال عناصر بين مراحل شراء مختلفة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M059",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M059"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M059",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M060",
@@ -1094,7 +1330,11 @@
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow refund رجوع طرد وتغير الحالة Return and Refund رجوع عنصر ثم تغير حالة العملية.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M060",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M060"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M060",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M061",
@@ -1107,12 +1347,16 @@
       "index": 0,
       "source": "greensock/GSAP",
       "referenceUrl": "https://github.com/greensock/GSAP",
-      "duration": 5.4,
+      "duration": 6.4,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout reflow مساحة قبل دخول عنصر Make Space تحرك الموجود أولًا لإفساح مكان للجديد.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M061",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M061"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M061",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M062",
@@ -1130,7 +1374,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout card-stack كشف بطاقات من رزمة Card Stack بطاقات تنفصل من رزمة وتصبح مقروءة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M062",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M062"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M062",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M063",
@@ -1148,7 +1396,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout bento تركيب مجموعة بطاقات Bento Assembly قطع مختلفة تستقر ضمن مجموعة واضحة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M063",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M063"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M063",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M064",
@@ -1166,7 +1418,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout grid شبكة تنمو بتتابع Grid Stagger دخول عناصر الشبكة من اليمين بتتابع.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M065",
@@ -1179,12 +1435,16 @@
       "index": 4,
       "source": "greensock/GSAP",
       "referenceUrl": "https://github.com/greensock/GSAP",
-      "duration": 5.4,
+      "duration": 6.4,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout accordion توسيع بند وظيفي Accordion Expansion فتح التفاصيل من البند نفسه.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M065",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M065"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M065",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M066",
@@ -1202,7 +1462,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout timeline خط زمني يتقدم Timeline Progress مرور على أحداث مرتبة مع كشفها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M066",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M066"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M066",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M067",
@@ -1220,7 +1484,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout cascade تتابع رأسي للبنود Vertical Cascade كشف بنود واحدًا بعد الآخر.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M067",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M067"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M067",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M068",
@@ -1238,7 +1506,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout organize ترتيب عناصر مبعثرة Scatter to Order انتقال عناصر من توزيع مبعثر إلى صف.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M068",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M068"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M068",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M069",
@@ -1256,7 +1528,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout carousel انتقال بين بطاقات Card Carousel عنصر مركزي ثم انتقال التركيز للمجاور.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M069",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M069"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M069",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M070",
@@ -1274,7 +1550,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout fan فتح بطاقات كمروحة Card Fan انفصال بطاقات لإظهار محتوى كل منها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M070",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M070"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M070",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M071",
@@ -1292,7 +1572,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout extract-detail تفصيل يخرج من مصدره Detail Extraction تفصيل يكبر من العنصر الأصلي.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M071",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M071"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M071",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M072",
@@ -1310,7 +1594,11 @@
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout shared-element عنصر مستمر بين مشهدين Shared Element نفس العنصر ينتقل إلى مكانه في الحالة التالية.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M072",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M072"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M072",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M073",
@@ -1328,7 +1616,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals bar-chart نمو أعمدة البيانات Bar Chart Grow أعمدة وقيم تتكشف بالتتابع.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M073",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M073"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M073",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M074",
@@ -1346,7 +1638,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals line-chart رسم خط مع نقاطه Line Chart Draw خط يتبع البيانات ثم يكشف نقاطها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M074",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M074"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M074",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M075",
@@ -1364,7 +1660,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals donut حلقة نسبة Donut Fill قوس يتوسع مع الرقم في مركزه.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M075",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M075"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M075",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M076",
@@ -1382,7 +1682,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals area-chart كشف مساحة تحت خط Area Reveal مساحة تتكشف تدريجيًا مع خطها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M076",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M076"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M076",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M077",
@@ -1400,7 +1704,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals waterfall جمع وتغير تراكمي Waterfall أثر البنود على الإجمالي بالتتابع.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M077",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M077"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M077",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M078",
@@ -1418,7 +1726,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals gauge مؤشر يصل إلى قيمة Gauge Sweep إبرة تصل إلى موضع ثم تستقر.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M078",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M078"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M078",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M079",
@@ -1436,7 +1748,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals radar كشف محاور مقارنة Radar Reveal مساحة توضح قيمًا على محاور معروفة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M079",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M079"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M079",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M080",
@@ -1454,7 +1770,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals dot-chart تجمع نقاط إلى نسبة Dot Matrix نقاط تتلوّن لتجسيد جزء من مجموعة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M080",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M080"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M080",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M081",
@@ -1467,12 +1787,16 @@
       "index": 8,
       "source": "ManimCommunity/manim",
       "referenceUrl": "https://github.com/ManimCommunity/manim",
-      "duration": 5.4,
+      "duration": 6.4,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals ranking تبدل ترتيب البيانات Ranking Change عناصر تغير ترتيبها مع قيمها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M081",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M081"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M081",
+      "motion_timing": {
+        "technique": "Fade Reorder",
+        "label": "Fade Reorder — خروج هادئ، ترتيب جديد يحفظ القيم، ثم وقفة قراءة."
+      }
     },
     {
       "id": "M082",
@@ -1490,7 +1814,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals heatmap كشف خريطة كثافة Heatmap Reveal خلايا تظهر اختلاف شدة القيم.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M082",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M082"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M082",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M083",
@@ -1508,7 +1836,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals sparkline خط مصغر ثم قيمة Sparkline Metric دليل مصغر ينتهي بقيمة واضحة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M083",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M083"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M083",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M084",
@@ -1526,7 +1858,11 @@
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals time-range نطاقات على خط زمني Time Ranges فترات تتكشف بمحاذاة محور وقت.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M084",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M084"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M084",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M085",
@@ -1544,7 +1880,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-lift منتج يرتفع ويستقر Product Lift حركة رفع وظل يوضحان عمق المنتج.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M085",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M085"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M085",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M086",
@@ -1562,7 +1902,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-turn تغيير زاوية المنتج Product Turn زاوية مبسطة تكشف جانبًا من المنتج.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M086",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M086"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M086",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M087",
@@ -1580,7 +1924,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-zoom تقريب خاصية منتج Product Zoom اقتراب إلى الخاصية دون تغيير الهوية.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M087",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M087"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M087",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M088",
@@ -1601,7 +1949,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-detail عدسة تكشف تفصيلًا Detail Lens عدسة تكبّر مكانها الفعلي؛ تبدأ فوق فراغ ثم تمر بالحافة وتستقر فوق 250 مل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M088",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M088"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M088",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M089",
@@ -1622,7 +1974,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-callouts إبراز خصائص المنتج Feature Callouts نقاط ثابتة على المنتج تكشف شرح الخاصية بالتتابع. بديل فصل الطبقات.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M089",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M089"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M089",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M090",
@@ -1643,7 +1999,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion unbox فتح العبوة Unboxing غطاء يفتح حول مفصله، ثم يخرج المنتج من داخل العبوة ويستقر بجانبها.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M090",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M090"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M090",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M091",
@@ -1661,7 +2021,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion color-options خيارات لون المنتج Color Options تبديل لون داخل جسم المنتج نفسه.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M091",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M091"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M091",
+      "motion_timing": {
+        "technique": "Discrete Choice",
+        "label": "Discrete Choice — اختيارات لون واضحة، مع وقفة مستقلة لكل خيار."
+      }
     },
     {
       "id": "M092",
@@ -1679,7 +2043,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion assembly تجميع أجزاء منتج Product Assembly الجسم ثابت، ثم يركب الغطاء ويلتصق اللابل بموضعه الصحيح.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M092",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M092"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M092",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M093",
@@ -1697,7 +2065,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion spotlight إضاءة على خاصية Product Spotlight ضوء يوجه التركيز لجزء من المنتج.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M093",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M093"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M093",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M094",
@@ -1718,7 +2090,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-carousel تبديل منتج داخل نافذة Product Carousel خيار يغادر النافذة ويصل التالي إلى مكانه. بديل الانعكاس.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M094",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M094"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M094",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M095",
@@ -1736,7 +2112,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion texture كشف ملمس المنتج Texture Reveal منطقة تتكشف لإظهار تفصيل السطح.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M095",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M095"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M095",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M096",
@@ -1757,7 +2137,11 @@
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion finish-compare مقارنة تشطيب المنتج Finish Comparison فاصل يكشف لونين على نفس الشكل، مع ثبات المنتج. بديل التفكيك والعودة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M096",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M096"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M096",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M097",
@@ -1775,7 +2159,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions wipe كشف اتجاهي Directional Wipe مشهد جديد يكشف من اليمين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M097",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M097"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M097",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M098",
@@ -1793,7 +2181,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions iris كشف دائري من الفعل Iris Reveal دائرة تنطلق من نقطة التركيز.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M099",
@@ -1811,7 +2203,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions push مشهد يدفع التالي Scene Push استمرار اتجاه الحركة بين المشهدين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M099",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M099"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M099",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M100",
@@ -1829,7 +2225,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions zoom-through اقتراب ثم مشهد جديد Zoom Through انتقال عبر العنصر البطل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M100",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M100"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M100",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M101",
@@ -1847,7 +2247,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions match-cut قطع على نفس الشكل Match Cut الشكل نفسه يصل بين حالتين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M101",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M101"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M101",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M102",
@@ -1865,7 +2269,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions focus-transition انتقال عمق التركيز Focus Shift تبدل وضوح المشهدين دون تراكب كتابتهما.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M102",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M102"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M102",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M103",
@@ -1883,7 +2291,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions diagonal قناع قطري Diagonal Reveal قناع قطري يكشف الكادر التالي.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M103",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M103"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M103",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M104",
@@ -1901,7 +2313,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions shutter كشف بستائر Shutter Reveal مقاطع تنفتح بتتابع بسيط.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M104",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M104"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M104",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M105",
@@ -1922,7 +2338,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions card-swap تبادل البطاقات بعمق Card Swap البطاقة الأمامية تنسحب، ثم تتقدم التالية وتعود الأولى إلى الخلف. بديل تحول الصفحة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M105",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M105"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M105",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M106",
@@ -1940,7 +2360,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions color-dip جسر لون قصير Dip to Color لون وسيط قصير بين حالتين.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M106",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M106"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M106",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M107",
@@ -1961,7 +2385,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions shared-expansion توسيع المنتج إلى تفاصيله Shared Layout Expansion نفس المنتج يستمر من بطاقته إلى عرض التفاصيل. بديل تحول الشكل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M107",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M107"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M107",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M108",
@@ -1982,7 +2410,11 @@
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions depth-carousel تقدم البطاقات من العمق Depth Carousel البطاقة الخلفية تكبر إلى المقدمة، مع ترتيب صحيح للحجب والحجم.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M109",
@@ -2000,7 +2432,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis check-draw رسم تأكيد النجاح Check Draw علامة نجاح ترسم بعد اكتمال الفعل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M109",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M109"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M109",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M110",
@@ -2018,7 +2454,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis loss-exit خروج العميل مع X Customer Loss شخصية تغادر ثم يتضح الفقد وتختفي.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M110",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M110"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M110",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M111",
@@ -2036,7 +2476,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis path-draw مسار يصل لوجهته Path Draw خط وظيفي يصل من المصدر إلى النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M111",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M111"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M111",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M112",
@@ -2054,7 +2498,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis pointer-pulse إشارة ضغط محددة Pointer Pulse تأكيد خفيف عند هدف الضغط.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M112",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M112"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M112",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M113",
@@ -2072,7 +2520,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis ripple أثر دائرة عند الفعل Action Ripple دائرة قصيرة من موضع الحدث.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M113",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M113"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M113",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M114",
@@ -2090,7 +2542,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis focus-dim خفض الخلفية وتركيز عنصر Focus Dim خفض المحيط مع بقاء العنصر واضحًا.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M114",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M114"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M114",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M115",
@@ -2108,7 +2564,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis timer-ring حلقة توقيت Timer Ring مسار وقت يتقدم نحو حدث واضح.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M115",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M115"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M115",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M116",
@@ -2126,7 +2586,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis calendar تقويم تجديد واضح Renewal Calendar تحديد شهر أو استحقاق داخل تقويم مسمى.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M116",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M116"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M116",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M117",
@@ -2144,7 +2608,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis success-burst تأكيد نتيجة خفيف Quiet Success تأكيد قصير حول النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M117",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M117"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M117",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M118",
@@ -2162,7 +2630,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis tag-attach ربط قيمة بعنصرها Attach Value Tag بطاقة قيمة تصل إلى المنتج المقصود.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M119",
@@ -2180,7 +2652,11 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis pin-target تحديد موضع داخل رسم Target Pin علامة تحدد موضعًا وظيفيًا.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M119",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M119"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M119",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M120",
@@ -2198,14 +2674,18 @@
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis warning تنبيه حالة مهمة State Warning تغير حالة واضح يتبعه تنبيه قصير.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M120",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M120"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M120",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M121",
       "key": "spring-landing",
       "name": "هبوط بطاقة بارتداد خفيف",
       "english": "Spring Landing",
-      "description": "بطاقة معلومة تصل إلى موضعها ثم تتجاوز قليلًا وتستقر.",
+      "description": "بطاقة معلومة تهبط إلى موضعها، ترتد للأعلى بخفة، ثم تستقر دون اختراق سطحها.",
       "source": "juliangarnier/anime",
       "referenceUrl": "https://github.com/juliangarnier/anime/blob/master/src/easings/spring/index.js",
       "exampleUrl": "https://animejs.com/easing-editor/spring/snappy",
@@ -2220,7 +2700,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M121",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M121"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M121",
+      "motion_timing": {
+        "technique": "Damped Rebound",
+        "label": "Damped Rebound — هبوط ناعم، ارتداد محدود للأعلى، ثم استقرار."
+      }
     },
     {
       "id": "M122",
@@ -2242,7 +2726,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M122",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M122"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M122",
+      "motion_timing": {
+        "technique": "Arc Length + Ease In Out",
+        "label": "Arc Length + Ease In Out — تسارع وتباطؤ على طول المسار، مع توجيه السيارة حسب المماس."
+      }
     },
     {
       "id": "M123",
@@ -2264,7 +2752,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M123",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M123"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M123",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M124",
@@ -2286,7 +2778,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M124",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M124"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M124",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M125",
@@ -2308,7 +2804,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M125",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M125"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M125",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M126",
@@ -2330,7 +2830,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M126",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M126"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M126",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M127",
@@ -2352,7 +2856,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M127",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M127"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M127",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M128",
@@ -2374,7 +2882,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M128",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M128"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M128",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M129",
@@ -2396,7 +2908,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M129",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M129"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M129",
+      "motion_timing": {
+        "technique": "Node Stops",
+        "label": "Node Stops — تباطؤ عند كل مرحلة، ثم استمرار في دورة كاملة."
+      }
     },
     {
       "id": "M130",
@@ -2418,7 +2934,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M130",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M130"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M130",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M131",
@@ -2440,7 +2960,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M131",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M131"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M131",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M132",
@@ -2462,7 +2986,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M132",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M132"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M132",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M133",
@@ -2484,7 +3012,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M133",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M133"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M133",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M134",
@@ -2506,7 +3038,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M134",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M134"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M134",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M135",
@@ -2528,7 +3064,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M135",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M135"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M135",
+      "motion_timing": {
+        "technique": "Inertia Stop",
+        "label": "Inertia Stop — حركة سريعة بعد انطلاق قصير، ثم تباطؤ طويل وتوقف."
+      }
     },
     {
       "id": "M136",
@@ -2551,7 +3091,11 @@
       "exampleVideoUrl": "https://www.facebook.com/reel/4883517721896141",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M136",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M136"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M136",
+      "motion_timing": {
+        "technique": "Stagger + Collapse",
+        "label": "Stagger + Collapse — دخول متتابع، انتهاء إشعار، ثم إغلاق الفراغ."
+      }
     },
     {
       "id": "M137",
@@ -2573,7 +3117,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M137",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M137"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M137",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M138",
@@ -2595,7 +3143,11 @@
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M138",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M138"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M138",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M139",
@@ -2618,7 +3170,11 @@
       "productionStatus": "preview_only",
       "usage": "احتفظ بمشهد واحد، واجعل الأقرب يتحرك أكثر من الأبعد مع حركة الكاميرا.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M139",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M139"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M139",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M140",
@@ -2641,7 +3197,11 @@
       "productionStatus": "preview_only",
       "usage": "ثبت حجم البطل، واربط تغير منظور الخلفية بلحظة اكتشاف أو مفاجأة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M140",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M140"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M140",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     },
     {
       "id": "M141",
@@ -2664,7 +3224,11 @@
       "productionStatus": "preview_only",
       "usage": "أدخل صوت المقطع التالي قبل قص صورته بحسب التسجيل والتوقيت المعتمد.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M141",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M141"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M141",
+      "motion_timing": {
+        "technique": "J-cut",
+        "label": "J-cut — صوت اللقطة التالية يسبق قطع الصورة؛ القطع مقصود."
+      }
     },
     {
       "id": "M142",
@@ -2687,7 +3251,11 @@
       "productionStatus": "preview_only",
       "usage": "استخدم انحرافًا صغيرًا في الرسم، مع ثبات الكابتشن والموقع في كادر الريل.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M142",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M142"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M142",
+      "motion_timing": {
+        "technique": "Handheld + Settle",
+        "label": "Handheld + Settle — اهتزاز محدود يتلاشى ثم يستقر."
+      }
     },
     {
       "id": "M143",
@@ -2710,7 +3278,11 @@
       "productionStatus": "preview_only",
       "usage": "اختر كلمة بها موضع اتصال مناسب، واربط تطويلها بالكلمة المنطوقة المقصودة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M143",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M143"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M143",
+      "motion_timing": {
+        "technique": "Continuous Kashida",
+        "label": "Continuous Kashida — تمدد متصل لوصلة الكلمة، مع ثبات شكل الحروف العربية."
+      }
     },
     {
       "id": "M144",
@@ -2733,7 +3305,19 @@
       "productionStatus": "preview_only",
       "usage": "حدد نقطة ظاهرة قبل الاقتراب، ثم اكشف العبارة التالية بعد امتلاء الكادر.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M144",
-      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M144"
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M144",
+      "motion_timing": {
+        "technique": "Ease In Out",
+        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      }
     }
-  ]
+  ],
+  "timing_review": {
+    "date": "2026-10-14",
+    "scope": "all_144_preview_timelines",
+    "method": "source_and_dense_actual_canvas_frames",
+    "continuous_browser_playback": "completed_144_previews_in_13_batches_p95_16.8ms_on_test_host",
+    "audience_outcome": "not_measured",
+    "replay_gap_seconds": 0.8
+  }
 }

@@ -1,5 +1,6 @@
 import {motionReferences,revisedDurations} from './references.js';
 import {expansionMotions} from './expansion-data.js';
+import {motionDurations} from './timing.js';
 export const groups=[
  ['text','النص والكابتشن','Typography','remotion-dev/remotion',[
  ['word-highlight','هايلايت الكلمة المنطوقة','Spoken Word Highlight','تتبّع الكلمة داخل عبارة عربية كاملة.'],
@@ -132,6 +133,6 @@ export const groups=[
  ['pin-target','تحديد موضع داخل رسم','Target Pin','علامة تحدد موضعًا وظيفيًا.'],
  ['warning','تنبيه حالة مهمة','State Warning','تغير حالة واضح يتبعه تنبيه قصير.']]]
 ];
-export const motions=groups.flatMap((group,g)=>group[4].map((row,i)=>{const id='M'+String(g*12+i+1).padStart(3,'0'),ref=motionReferences[id];return {id,key:row[0],name:row[1],english:row[2],description:row[3],category:group[0],categoryName:group[1],index:i,source:ref?.source||group[3],referenceUrl:ref?.code||'https://github.com/'+group[3],referenceTitle:ref?.title,exampleUrl:ref?.demo,referenceNote:ref?.note,duration:revisedDurations[id]||(row[0]==='build-total'?9.6:5.4),provenance:ref?'behavior_adaptation_original_canvas':'original_demo',productionStatus:'preview_only',keywords:group[1]+' '+group[2]+' '+row.join(' ')};})).concat(expansionMotions);
+export const motions=groups.flatMap((group,g)=>group[4].map((row,i)=>{const id='M'+String(g*12+i+1).padStart(3,'0'),ref=motionReferences[id];return {id,key:row[0],name:row[1],english:row[2],description:row[3],category:group[0],categoryName:group[1],index:i,source:ref?.source||group[3],referenceUrl:ref?.code||'https://github.com/'+group[3],referenceTitle:ref?.title,exampleUrl:ref?.demo,referenceNote:ref?.note,duration:motionDurations[id]||revisedDurations[id]||(row[0]==='build-total'?9.6:5.4),provenance:ref?'behavior_adaptation_original_canvas':'original_demo',productionStatus:'preview_only',keywords:group[1]+' '+group[2]+' '+row.join(' ')};})).concat(expansionMotions);
 groups.push(['smooth','الحركة السلسة والشرح','Smooth Explainers','juliangarnier/anime',expansionMotions.filter(m=>m.category==='smooth').map(m=>[m.key,m.name,m.english,m.description])]);
 groups.push(['video-reference','من مرجع الفيديو','Video Reference','juliangarnier/anime',expansionMotions.filter(m=>m.category==='video-reference').map(m=>[m.key,m.name,m.english,m.description])]);
