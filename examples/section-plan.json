@@ -18,6 +18,8 @@
   "destination": null,
   "visual_state_after": null,
   "pattern_id": null,
+  "preview_id": null,
+  "preview_url": null,
   "selected_repository": null,
   "selected_component_path": null,
   "selection_reason": null,
