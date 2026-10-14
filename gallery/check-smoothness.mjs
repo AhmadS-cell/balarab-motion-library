@@ -11,4 +11,4 @@ for(const item of motions){
 const phase=(p,a,b)=>easing((p-a)/(b-a));
 for(let i=0;i<=1000;i++){const p=i/1000,leave=phase(p,.12,.29),sort=phase(p,.34,.57),back=phase(p,.62,.8),x=320+250*leave*(1-back),w=340-250*leave*(1-back),y=280-160*sort;for(let k=0;k<2;k++){const otherY=120+k*80+80*sort;assert.ok(Math.abs(y-otherY)>=54-1e-6||x-w/2>=490-1e-6,'Rank rows must not intersect');}}
 assert.equal(motions.find(m=>m.id==='M018').duration,9.6);assert.equal(motionProfile(motions.find(m=>m.id==='M141')).technique,'J-cut');
-console.log('PASS: monotone ease with quiet endpoint velocity, masked restart for all 144, collision-free ranking, preserved total timing and intended J-cut.');
+console.log('PASS: monotone ease with quiet endpoint velocity, masked restart for all 160, collision-free ranking, preserved total timing and intended J-cut.');

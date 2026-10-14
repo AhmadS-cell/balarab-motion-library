@@ -1,0 +1,390 @@
+{
+  "date": "2026-10-14",
+  "source": "https://prompt-motion.com/",
+  "catalog_indexed_entries": 234,
+  "new_count": 16,
+  "updated_count": 8,
+  "related_reference_ids": [
+    "M026",
+    "M064",
+    "M098",
+    "M108",
+    "M134",
+    "M144"
+  ],
+  "rights": "Videos and prompts belong to their creators; only links, attribution and independent behavior adaptations are published. No source media, prompt texts, assets or external skills copied or installed.",
+  "selection": "Behavior duplicates upgraded under existing IDs; generic showreels are not counted as new motions. Other catalog entries remain references, not claimed as watched or implemented. Selected source frames and specific prompt descriptions informed the adaptations; full playback of every source clip is not claimed.",
+  "bindings": [
+    {
+      "id": "M007",
+      "name": "قلم يرسم خط التأكيد",
+      "english": "Marker Underline",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "author": "@ik_builds",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Marker Draw"
+    },
+    {
+      "id": "M008",
+      "name": "تركيز داخل كبسولة",
+      "english": "Keyword Pill",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "author": "@ultimaxbt",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Dot to Pill"
+    },
+    {
+      "id": "M030",
+      "name": "تبديل حالة خيار",
+      "english": "Toggle State",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Elastic Toggle"
+    },
+    {
+      "id": "M037",
+      "name": "ضغط ثم نتيجة",
+      "english": "Click to Result",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Morph + Load + Result"
+    },
+    {
+      "id": "M039",
+      "name": "بحث وأمر سريع",
+      "english": "Command Palette Search",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Filter + Select + Enter"
+    },
+    {
+      "id": "M042",
+      "name": "إشعار يتمدد ويستقر",
+      "english": "Compact Notification",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Compact to Expand"
+    },
+    {
+      "id": "M047",
+      "name": "تغيير تبويب",
+      "english": "Tab Switch",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Liquid Tab Indicator"
+    },
+    {
+      "id": "M118",
+      "name": "ربط قيمة بعنصرها",
+      "english": "Attach Value Tag",
+      "kind": "updated",
+      "reference": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "author": "@ik_builds",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Follow Through"
+    },
+    {
+      "id": "M145",
+      "name": "سحب مرن عند حد القيمة",
+      "english": "Elastic Limit Slider",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Direct Manipulation + Release"
+    },
+    {
+      "id": "M146",
+      "name": "مؤشر يكشف قيمة النقطة",
+      "english": "Chart Tooltip Tracker",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Path Tracking"
+    },
+    {
+      "id": "M147",
+      "name": "تشغيل يتحول إلى إيقاف",
+      "english": "Play Pause Morph",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Path Morph"
+    },
+    {
+      "id": "M148",
+      "name": "سحب الزمن يغيّر المعاينة",
+      "english": "Scrub and Preview",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/twoclipping-5cba86",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Seek Driven Motion"
+    },
+    {
+      "id": "M149",
+      "name": "رسم الاستجابة والارتداد",
+      "english": "Spring Response Plot",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "author": "@ultimaxbt",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Damped Spring"
+    },
+    {
+      "id": "M150",
+      "name": "كلمات تدور حول الفكرة",
+      "english": "Orbiting Labels",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "author": "@ultimaxbt",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Orbit + Settle"
+    },
+    {
+      "id": "M151",
+      "name": "كشف بنقاط تتمدد",
+      "english": "Halftone Reveal",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "author": "@ultimaxbt",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Staggered Dot Mask"
+    },
+    {
+      "id": "M152",
+      "name": "دائرة تصبح بطاقة ثم زرًا",
+      "english": "Shape to UI Control",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "author": "@ultimaxbt",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Shared Shape Morph"
+    },
+    {
+      "id": "M153",
+      "name": "فتح شارة إنجاز",
+      "english": "Badge Unlock",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/bthreeagency-b9b8d9",
+      "author": "@BThreeAgency",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Tilt + Reveal"
+    },
+    {
+      "id": "M154",
+      "name": "أثر سرعة خلف العنصر",
+      "english": "Smear Trail",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "author": "@ik_builds",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Speed Trail"
+    },
+    {
+      "id": "M155",
+      "name": "ضغط وتمدد عند التلامس",
+      "english": "Squash and Stretch",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "author": "@ik_builds",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Impact + Rebound"
+    },
+    {
+      "id": "M156",
+      "name": "حصة تنفد ثم تتعبأ",
+      "english": "Token Bucket Gate",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/parkerrex-1a54fe",
+      "author": "@ParkerRex",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Event Driven Simulation"
+    },
+    {
+      "id": "M157",
+      "name": "إطار ينمو من حافة الصورة",
+      "english": "Photo Frame Growth",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/twoclipping-221cab",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Edge Growth"
+    },
+    {
+      "id": "M158",
+      "name": "نافذة تلتف لتكشف التالي",
+      "english": "Window Roll Up",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/twoclipping-221cab",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Clipped Roll Reveal"
+    },
+    {
+      "id": "M159",
+      "name": "مسح مجموعة ثم اختيار عناصر",
+      "english": "Gallery Scan Select",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/twoclipping-6dd14e",
+      "author": "@twoclipping",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Scan + Select + Reflow"
+    },
+    {
+      "id": "M160",
+      "name": "عنصر يخرج من إطاره",
+      "english": "Frame Escape",
+      "kind": "new",
+      "reference": "https://prompt-motion.com/pankajkumar-dev-0bee87",
+      "author": "@pankajkumar_dev",
+      "evidence": "specific_entry_description_independent_interpretation",
+      "implementation": "original_deterministic_arabic_canvas",
+      "technique": "Frame Breakout"
+    }
+  ],
+  "qa": {
+    "status": "passed",
+    "preview_total": 160,
+    "affected_previews": 24,
+    "visual_sample_frames": 192,
+    "native_canvas_frames": 5274,
+    "fps": 30,
+    "browser_playback": {
+      "status": "completed",
+      "previewCount": 24,
+      "batches": [
+        {
+          "ids": [
+            "M007",
+            "M008"
+          ],
+          "seconds": 6.33,
+          "frames": 380,
+          "p95FrameMs": 16.8,
+          "maxFrameMs": 17.1
+        },
+        {
+          "ids": [
+            "M030"
+          ],
+          "seconds": 6.33,
+          "frames": 380,
+          "p95FrameMs": 16.8,
+          "maxFrameMs": 18.5
+        },
+        {
+          "ids": [
+            "M037",
+            "M039",
+            "M042",
+            "M047"
+          ],
+          "seconds": 6.33,
+          "frames": 380,
+          "p95FrameMs": 16.8,
+          "maxFrameMs": 17.3
+        },
+        {
+          "ids": [
+            "M118"
+          ],
+          "seconds": 6.33,
+          "frames": 380,
+          "p95FrameMs": 16.8,
+          "maxFrameMs": 17.4
+        },
+        {
+          "ids": [
+            "M145",
+            "M146",
+            "M147",
+            "M148",
+            "M149",
+            "M150",
+            "M151",
+            "M152",
+            "M153",
+            "M154",
+            "M155",
+            "M156"
+          ],
+          "seconds": 11.73,
+          "frames": 704,
+          "p95FrameMs": 16.8,
+          "maxFrameMs": 18.5
+        },
+        {
+          "ids": [
+            "M157",
+            "M158",
+            "M159",
+            "M160"
+          ],
+          "seconds": 10.53,
+          "frames": 631,
+          "p95FrameMs": 16.8,
+          "maxFrameMs": 33.4
+        }
+      ]
+    },
+    "mobile_viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "checks": [
+      "catalog integrity",
+      "motion invariants",
+      "smoothness and restart",
+      "expansion regression",
+      "M018 totals",
+      "bars lens box shadow regression"
+    ],
+    "limitations": "Editorial visual review, not measured audience retention. Full playback of every source video is not claimed. Silent previews are not a final narrated reel."
+  },
+  "source_sha256": {
+    "prompt-motion.js": "6eba9f01af1638e180cc29f847fe2db34fbd27145fb31d643cfd06bc5686dc53",
+    "prompt-data.js": "d6d54d8384814425327127ed9f73e4d64374d61c06a01d16c88f1d0cdd380c7e",
+    "motions.js": "6922075bedc97977f1a23fa606251d9e693e55480de9b753b06677226f44bd60",
+    "render.js": "424e00fa0ed8fc42df235a8e5b71b8d85ba57ccf6f4248b250654a4f8c99d096",
+    "app.js": "ed99d6d82210c1083a6ecb33d3528b13062d565209e9ebc327fbfd70a5a87548",
+    "timing.js": "766d8f327056bf2bd74fb6f187da36bee10cc726c9316d317c70be86c17e51d9"
+  }
+}

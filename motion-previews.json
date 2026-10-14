@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "preview_origin": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site",
   "categories": {
     "text": "النص والكابتشن",
@@ -13,7 +13,8 @@
     "transition": "الانتقال بين المشاهد",
     "emphasis": "التأكيد والتوقيت",
     "smooth": "الحركة السلسة والشرح",
-    "video-reference": "من مرجع الفيديو"
+    "video-reference": "من مرجع الفيديو",
+    "prompt-motion": "من Prompt Motion"
   },
   "motions": [
     {
@@ -151,46 +152,64 @@
     {
       "id": "M007",
       "key": "underline",
-      "name": "رسم خط تحت كلمة",
-      "english": "Underline Draw",
-      "description": "إبراز كلمة وظيفية بخط يتحرك تحتها.",
+      "name": "قلم يرسم خط التأكيد",
+      "english": "Marker Underline",
+      "description": "قلم يمر تحت العبارة ثم يغادر، مع بقاء العربية متصلة.",
       "category": "text",
       "categoryName": "النص والكابتشن",
       "index": 6,
-      "source": "remotion-dev/remotion",
-      "referenceUrl": "https://github.com/remotion-dev/remotion",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "النص والكابتشن Typography underline رسم خط تحت كلمة Underline Draw إبراز كلمة وظيفية بخط يتحرك تحتها.",
+      "keywords": "النص والكابتشن Typography underline رسم خط تحت كلمة Underline Draw إبراز كلمة وظيفية بخط يتحرك تحتها. رسم خط تحت كلمة Underline Draw Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Marker Draw",
+        "label": "Marker Draw — قلم يتتبع الخط ثم يغادر بعد اكتماله."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "referenceNote": "مرجع @ik_builds على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع وصف تقني في البرومبت، وليس ادعاء مطابقة فيديو المصدر.",
+      "motionTiming": {
+        "technique": "Marker Draw",
+        "label": "Marker Draw — قلم يتتبع الخط ثم يغادر بعد اكتماله."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@ik_builds"
     },
     {
       "id": "M008",
       "key": "keyword-pill",
       "name": "تركيز داخل كبسولة",
       "english": "Keyword Pill",
-      "description": "تمييز كلمة بحيز يثبت حولها.",
+      "description": "نقطة تصل إلى موضع الكلمة، تتمدد إلى كبسولة ثم تكشف العبارة.",
       "category": "text",
       "categoryName": "النص والكابتشن",
       "index": 7,
-      "source": "remotion-dev/remotion",
-      "referenceUrl": "https://github.com/remotion-dev/remotion",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "النص والكابتشن Typography keyword-pill تركيز داخل كبسولة Keyword Pill تمييز كلمة بحيز يثبت حولها.",
+      "keywords": "النص والكابتشن Typography keyword-pill تركيز داخل كبسولة Keyword Pill تمييز كلمة بحيز يثبت حولها. تركيز داخل كبسولة Keyword Pill Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Dot to Pill",
+        "label": "Dot to Pill — وصول النقطة، ثم تمدد الحاوية، ثم كشف النص."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "referenceNote": "مرجع @ultimaxbt على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "motionTiming": {
+        "technique": "Dot to Pill",
+        "label": "Dot to Pill — وصول النقطة، ثم تمدد الحاوية، ثم كشف النص."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@ultimaxbt"
     },
     {
       "id": "M009",
@@ -580,13 +599,20 @@
       "duration": 5.4,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
-      "keywords": "المقارنة والقرار Comparison before-after كشف قبل وبعد Before / After حاجز يكشف الفرق بين حالتين.",
+      "keywords": "المقارنة والقرار Comparison before-after كشف قبل وبعد Before / After حاجز يكشف الفرق بين حالتين. Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026",
       "motion_timing": {
         "technique": "Ease In Out",
         "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+      },
+      "additionalReferences": [
+        {
+          "title": "مرجع مرئي إضافي / @twoclipping",
+          "url": "https://prompt-motion.com/twoclipping-221cab",
+          "note": "مرجع سلوكي بديل. المعاينة الحالية تنفيذ بالعرب، وقد تختلف هندسة أو ترتيب المرجع."
+        }
+      ]
     },
     {
       "id": "M027",
@@ -659,22 +685,31 @@
       "key": "toggle",
       "name": "تبديل حالة خيار",
       "english": "Toggle State",
-      "description": "انتقال زر حالة بين خيارين.",
+      "description": "ضغط يحرك قبضة مرنة داخل المفتاح، ثم تستقر الحالة الجديدة.",
       "category": "compare",
       "categoryName": "المقارنة والقرار",
       "index": 5,
-      "source": "motiondivision/motion",
-      "referenceUrl": "https://github.com/motiondivision/motion",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "المقارنة والقرار Comparison toggle تبديل حالة خيار Toggle State انتقال زر حالة بين خيارين.",
+      "keywords": "المقارنة والقرار Comparison toggle تبديل حالة خيار Toggle State انتقال زر حالة بين خيارين. تبديل حالة خيار Toggle State Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Elastic Toggle",
+        "label": "Elastic Toggle — ضغط فعلي، حركة قبضة مرنة، ثم استقرار الحالة."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "motionTiming": {
+        "technique": "Elastic Toggle",
+        "label": "Elastic Toggle — ضغط فعلي، حركة قبضة مرنة، ثم استقرار الحالة."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@twoclipping"
     },
     {
       "id": "M031",
@@ -813,22 +848,31 @@
       "key": "click",
       "name": "ضغط ثم نتيجة",
       "english": "Click to Result",
-      "description": "المؤشر يصل للزر ثم تتغير الحالة.",
+      "description": "ضغط ثم زر ينكمش إلى تحميل وتأكيد، ثم يرجع بالنتيجة داخل نفس الواجهة.",
       "category": "ui",
       "categoryName": "الواجهة والتفاعل",
       "index": 0,
-      "source": "lifeprompt-team/remotion-scenes",
-      "referenceUrl": "https://github.com/lifeprompt-team/remotion-scenes",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "الواجهة والتفاعل Interface click ضغط ثم نتيجة Click to Result المؤشر يصل للزر ثم تتغير الحالة.",
+      "keywords": "الواجهة والتفاعل Interface click ضغط ثم نتيجة Click to Result المؤشر يصل للزر ثم تتغير الحالة. ضغط ثم نتيجة Click to Result Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Morph + Load + Result",
+        "label": "Morph + Load + Result — انكماش الزر، انتظار قصير، تأكيد، ثم ظهور النتيجة."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "motionTiming": {
+        "technique": "Morph + Load + Result",
+        "label": "Morph + Load + Result — انكماش الزر، انتظار قصير، تأكيد، ثم ظهور النتيجة."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@twoclipping"
     },
     {
       "id": "M038",
@@ -855,24 +899,33 @@
     {
       "id": "M039",
       "key": "search",
-      "name": "بحث ثم نتيجة",
-      "english": "Search Result",
-      "description": "استعلام ثم حالة بحث ثم نتيجة.",
+      "name": "بحث وأمر سريع",
+      "english": "Command Palette Search",
+      "description": "تصفية داخل حقل، اختيار نتيجة، ثم إدخال يفتح تفاصيلها داخل نفس النافذة.",
       "category": "ui",
       "categoryName": "الواجهة والتفاعل",
       "index": 2,
-      "source": "lifeprompt-team/remotion-scenes",
-      "referenceUrl": "https://github.com/lifeprompt-team/remotion-scenes",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "الواجهة والتفاعل Interface search بحث ثم نتيجة Search Result استعلام ثم حالة بحث ثم نتيجة.",
+      "keywords": "الواجهة والتفاعل Interface search بحث ثم نتيجة Search Result استعلام ثم حالة بحث ثم نتيجة. بحث ثم نتيجة Search Result Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Filter + Select + Enter",
+        "label": "Filter + Select + Enter — تصفية، اختيار، ثم فتح نتيجة داخل نفس المصدر."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "motionTiming": {
+        "technique": "Filter + Select + Enter",
+        "label": "Filter + Select + Enter — تصفية، اختيار، ثم فتح نتيجة داخل نفس المصدر."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@twoclipping"
     },
     {
       "id": "M040",
@@ -921,24 +974,33 @@
     {
       "id": "M042",
       "key": "toast",
-      "name": "إشعار نتيجة",
-      "english": "Result Toast",
-      "description": "رسالة قصيرة تظهر بعد اكتمال الفعل.",
+      "name": "إشعار يتمدد ويستقر",
+      "english": "Compact Notification",
+      "description": "إشارة صغيرة تتوسع إلى إشعار مقروء فوق الواجهة، ثم تستقر.",
       "category": "ui",
       "categoryName": "الواجهة والتفاعل",
       "index": 5,
-      "source": "lifeprompt-team/remotion-scenes",
-      "referenceUrl": "https://github.com/lifeprompt-team/remotion-scenes",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "الواجهة والتفاعل Interface toast إشعار نتيجة Result Toast رسالة قصيرة تظهر بعد اكتمال الفعل.",
+      "keywords": "الواجهة والتفاعل Interface toast إشعار نتيجة Result Toast رسالة قصيرة تظهر بعد اكتمال الفعل. إشعار نتيجة Result Toast Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Compact to Expand",
+        "label": "Compact to Expand — إشارة صغيرة تتوسع، ثم يكشف النص بعد اكتمال المساحة."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "motionTiming": {
+        "technique": "Compact to Expand",
+        "label": "Compact to Expand — إشارة صغيرة تتوسع، ثم يكشف النص بعد اكتمال المساحة."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@twoclipping"
     },
     {
       "id": "M043",
@@ -1033,22 +1095,31 @@
       "key": "tab-change",
       "name": "تغيير تبويب",
       "english": "Tab Switch",
-      "description": "مؤشر يتحرك وتتبعه لوحة المحتوى.",
+      "description": "طرفا مؤشر التبويب يتحركان بتأخر مختلف، ثم يظهر المحتوى الموافق للاختيار.",
       "category": "ui",
       "categoryName": "الواجهة والتفاعل",
       "index": 10,
-      "source": "lifeprompt-team/remotion-scenes",
-      "referenceUrl": "https://github.com/lifeprompt-team/remotion-scenes",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "الواجهة والتفاعل Interface tab-change تغيير تبويب Tab Switch مؤشر يتحرك وتتبعه لوحة المحتوى.",
+      "keywords": "الواجهة والتفاعل Interface tab-change تغيير تبويب Tab Switch مؤشر يتحرك وتتبعه لوحة المحتوى. تغيير تبويب Tab Switch Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Liquid Tab Indicator",
+        "label": "Liquid Tab Indicator — الحافة المتقدمة تسبق الخلفية، ثم يلحق محتوى التبويب."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "motionTiming": {
+        "technique": "Liquid Tab Indicator",
+        "label": "Liquid Tab Indicator — الحافة المتقدمة تسبق الخلفية، ثم يلحق محتوى التبويب."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@twoclipping"
     },
     {
       "id": "M048",
@@ -1416,13 +1487,20 @@
       "duration": 5.4,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
-      "keywords": "الترتيب والاستمرارية Layout grid شبكة تنمو بتتابع Grid Stagger دخول عناصر الشبكة من اليمين بتتابع.",
+      "keywords": "الترتيب والاستمرارية Layout grid شبكة تنمو بتتابع Grid Stagger دخول عناصر الشبكة من اليمين بتتابع. Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064",
       "motion_timing": {
         "technique": "Ease In Out",
         "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+      },
+      "additionalReferences": [
+        {
+          "title": "مرجع مرئي إضافي / @twoclipping",
+          "url": "https://prompt-motion.com/twoclipping-221cab",
+          "note": "مرجع سلوكي بديل. المعاينة الحالية تنفيذ بالعرب، وقد تختلف هندسة أو ترتيب المرجع."
+        }
+      ]
     },
     {
       "id": "M065",
@@ -2179,13 +2257,20 @@
       "duration": 5.4,
       "provenance": "original_demo",
       "productionStatus": "preview_only",
-      "keywords": "الانتقال بين المشاهد Transitions iris كشف دائري من الفعل Iris Reveal دائرة تنطلق من نقطة التركيز.",
+      "keywords": "الانتقال بين المشاهد Transitions iris كشف دائري من الفعل Iris Reveal دائرة تنطلق من نقطة التركيز. Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098",
       "motion_timing": {
         "technique": "Ease In Out",
         "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+      },
+      "additionalReferences": [
+        {
+          "title": "مرجع مرئي إضافي / @twoclipping",
+          "url": "https://prompt-motion.com/twoclipping-221cab",
+          "note": "مرجع سلوكي بديل. المعاينة الحالية تنفيذ بالعرب، وقد تختلف هندسة أو ترتيب المرجع."
+        }
+      ]
     },
     {
       "id": "M099",
@@ -2408,13 +2493,20 @@
       "duration": 6.4,
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "الانتقال بين المشاهد Transitions depth-carousel تقدم البطاقات من العمق Depth Carousel البطاقة الخلفية تكبر إلى المقدمة، مع ترتيب صحيح للحجب والحجم.",
+      "keywords": "الانتقال بين المشاهد Transitions depth-carousel تقدم البطاقات من العمق Depth Carousel البطاقة الخلفية تكبر إلى المقدمة، مع ترتيب صحيح للحجب والحجم. Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108",
       "motion_timing": {
         "technique": "Ease In Out",
         "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+      },
+      "additionalReferences": [
+        {
+          "title": "مرجع مرئي إضافي / @twoclipping",
+          "url": "https://prompt-motion.com/twoclipping-6dd14e",
+          "note": "مرجع سلوكي بديل. المعاينة الحالية تنفيذ بالعرب، وقد تختلف هندسة أو ترتيب المرجع."
+        }
+      ]
     },
     {
       "id": "M109",
@@ -2619,22 +2711,31 @@
       "key": "tag-attach",
       "name": "ربط قيمة بعنصرها",
       "english": "Attach Value Tag",
-      "description": "بطاقة قيمة تصل إلى المنتج المقصود.",
+      "description": "بطاقة القيمة تصل إلى المنتج، تتأخر قليلًا عن الحركة ثم تهدأ دون فقد الرابط.",
       "category": "emphasis",
       "categoryName": "التأكيد والتوقيت",
       "index": 9,
-      "source": "maxwellito/vivus",
-      "referenceUrl": "https://github.com/maxwellito/vivus",
+      "source": "Prompt Motion",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
       "duration": 5.4,
-      "provenance": "original_demo",
+      "provenance": "prompt_motion_behavior_original_canvas",
       "productionStatus": "preview_only",
-      "keywords": "التأكيد والتوقيت Emphasis tag-attach ربط قيمة بعنصرها Attach Value Tag بطاقة قيمة تصل إلى المنتج المقصود.",
+      "keywords": "التأكيد والتوقيت Emphasis tag-attach ربط قيمة بعنصرها Attach Value Tag بطاقة قيمة تصل إلى المنتج المقصود. ربط قيمة بعنصرها Attach Value Tag Prompt Motion",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118",
       "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118",
       "motion_timing": {
-        "technique": "Ease In Out",
-        "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+        "technique": "Follow Through",
+        "label": "Follow Through — تصل البطاقة أولًا، ثم يهدأ ميلها المتأخر مع حفظ الرابط."
+      },
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "referenceNote": "مرجع @ik_builds على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع وصف تقني في البرومبت، وليس ادعاء مطابقة فيديو المصدر.",
+      "motionTiming": {
+        "technique": "Follow Through",
+        "label": "Follow Through — تصل البطاقة أولًا، ثم يهدأ ميلها المتأخر مع حفظ الرابط."
+      },
+      "sourceType": "visual-reference",
+      "referenceCredit": "@ik_builds"
     },
     {
       "id": "M119",
@@ -3034,7 +3135,7 @@
       "category": "smooth",
       "categoryName": "الحركة السلسة والشرح",
       "index": 13,
-      "keywords": "masonry-reflow ترتيب بطاقات متفاوتة الطول Masonry Reflow Anime.js React Spring",
+      "keywords": "masonry-reflow ترتيب بطاقات متفاوتة الطول Masonry Reflow Anime.js React Spring Prompt Motion",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M134",
@@ -3042,7 +3143,14 @@
       "motion_timing": {
         "technique": "Ease In Out",
         "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
-      }
+      },
+      "additionalReferences": [
+        {
+          "title": "مرجع مرئي إضافي / @twoclipping",
+          "url": "https://prompt-motion.com/twoclipping-221cab",
+          "note": "مرجع سلوكي بديل. المعاينة الحالية تنفيذ بالعرب، وقد تختلف هندسة أو ترتيب المرجع."
+        }
+      ]
     },
     {
       "id": "M135",
@@ -3301,7 +3409,7 @@
       "category": "video-reference",
       "categoryName": "من مرجع الفيديو",
       "index": 5,
-      "keywords": "dot-zoom زوم داخل نقطة دلالية Dot Zoom اقتراب إلى نقطة مرتبطة بالكلمة حتى تملأ الكادر وتقود إلى العبارة التالية. 92 مرجع Facebook بنك الحركات",
+      "keywords": "dot-zoom زوم داخل نقطة دلالية Dot Zoom اقتراب إلى نقطة مرتبطة بالكلمة حتى تملأ الكادر وتقود إلى العبارة التالية. 92 مرجع Facebook بنك الحركات Prompt Motion",
       "productionStatus": "preview_only",
       "usage": "حدد نقطة ظاهرة قبل الاقتراب، ثم اكشف العبارة التالية بعد امتلاء الكادر.",
       "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M144",
@@ -3309,6 +3417,525 @@
       "motion_timing": {
         "technique": "Ease In Out",
         "label": "Ease In Out — بداية هادئة، تسارع في الوسط، تباطؤ عند الوصول، ثم وقفة للنتيجة."
+      },
+      "additionalReferences": [
+        {
+          "title": "مرجع مرئي إضافي / @ultimaxbt",
+          "url": "https://prompt-motion.com/ultimaxbt-bbebf5",
+          "note": "مرجع سلوكي بديل. المعاينة الحالية تنفيذ بالعرب، وقد تختلف هندسة أو ترتيب المرجع."
+        }
+      ]
+    },
+    {
+      "id": "M145",
+      "key": "elastic-slider",
+      "name": "سحب مرن عند حد القيمة",
+      "english": "Elastic Limit Slider",
+      "description": "المؤشر يسحب إلى الحد، تتمدد القبضة قليلًا، ثم ترجع دون تجاوز القيمة 100%.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 0,
+      "duration": 8.4,
+      "usage": "اربط القيمة بالمؤشر أثناء السحب، وحدّدها عند الحد قبل ارتداد الشكل.",
+      "motionTiming": {
+        "technique": "Direct Manipulation + Release",
+        "label": "Direct Manipulation + Release — اربط القيمة بالمؤشر أثناء السحب، وحدّدها عند الحد قبل ارتداد الشكل."
+      },
+      "keywords": "elastic-slider سحب مرن عند حد القيمة Elastic Limit Slider المؤشر يسحب إلى الحد، تتمدد القبضة قليلًا، ثم ترجع دون تجاوز القيمة 100%. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceCredit": "@twoclipping",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M145",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M145",
+      "motion_timing": {
+        "technique": "Direct Manipulation + Release",
+        "label": "Direct Manipulation + Release — اربط القيمة بالمؤشر أثناء السحب، وحدّدها عند الحد قبل ارتداد الشكل."
+      }
+    },
+    {
+      "id": "M146",
+      "key": "chart-tooltip",
+      "name": "مؤشر يكشف قيمة النقطة",
+      "english": "Chart Tooltip Tracker",
+      "description": "خط إرشادي وبطاقة قيمة يتبعان نفس النقطة على الرسم.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 1,
+      "duration": 8.4,
+      "usage": "استخدم بيانات معلومة، واشتق البطاقة والدليل من النقطة نفسها.",
+      "motionTiming": {
+        "technique": "Path Tracking",
+        "label": "Path Tracking — استخدم بيانات معلومة، واشتق البطاقة والدليل من النقطة نفسها."
+      },
+      "keywords": "chart-tooltip مؤشر يكشف قيمة النقطة Chart Tooltip Tracker خط إرشادي وبطاقة قيمة يتبعان نفس النقطة على الرسم. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceCredit": "@twoclipping",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M146",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M146",
+      "motion_timing": {
+        "technique": "Path Tracking",
+        "label": "Path Tracking — استخدم بيانات معلومة، واشتق البطاقة والدليل من النقطة نفسها."
+      }
+    },
+    {
+      "id": "M147",
+      "key": "play-pause-morph",
+      "name": "تشغيل يتحول إلى إيقاف",
+      "english": "Play Pause Morph",
+      "description": "أجزاء رمز التشغيل تتحول إلى عمودي الإيقاف بعد الضغط.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 2,
+      "duration": 7.2,
+      "usage": "حوّل أجزاء الرمز، مع إبقاء العربية خارج تشوه المسارات.",
+      "motionTiming": {
+        "technique": "Path Morph",
+        "label": "Path Morph — حوّل أجزاء الرمز، مع إبقاء العربية خارج تشوه المسارات."
+      },
+      "keywords": "play-pause-morph تشغيل يتحول إلى إيقاف Play Pause Morph أجزاء رمز التشغيل تتحول إلى عمودي الإيقاف بعد الضغط. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceCredit": "@twoclipping",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M147",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M147",
+      "motion_timing": {
+        "technique": "Path Morph",
+        "label": "Path Morph — حوّل أجزاء الرمز، مع إبقاء العربية خارج تشوه المسارات."
+      }
+    },
+    {
+      "id": "M148",
+      "key": "scrub-preview",
+      "name": "سحب الزمن يغيّر المعاينة",
+      "english": "Scrub and Preview",
+      "description": "موضع المقبض والوقت والصورة تتبع قيمة زمن واحدة أثناء التقديم والرجوع.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 3,
+      "duration": 8.4,
+      "usage": "احسب الصورة والوقت من الموضع نفسه، ولا تشغّل ساعة مستقلة عنه.",
+      "motionTiming": {
+        "technique": "Seek Driven Motion",
+        "label": "Seek Driven Motion — احسب الصورة والوقت من الموضع نفسه، ولا تشغّل ساعة مستقلة عنه."
+      },
+      "keywords": "scrub-preview سحب الزمن يغيّر المعاينة Scrub and Preview موضع المقبض والوقت والصورة تتبع قيمة زمن واحدة أثناء التقديم والرجوع. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-5cba86",
+      "referenceCredit": "@twoclipping",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M148",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M148",
+      "motion_timing": {
+        "technique": "Seek Driven Motion",
+        "label": "Seek Driven Motion — احسب الصورة والوقت من الموضع نفسه، ولا تشغّل ساعة مستقلة عنه."
+      }
+    },
+    {
+      "id": "M149",
+      "key": "spring-response-plot",
+      "name": "رسم الاستجابة والارتداد",
+      "english": "Spring Response Plot",
+      "description": "النقطة ترسم منحنى استجابتها، تتجاوز الهدف قليلًا ثم تستقر عليه.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 4,
+      "duration": 7.8,
+      "usage": "المنحنى والنقطة ناتجان عن الدالة نفسها. الرسم توضيحي وليس بيانات أداء متجر.",
+      "motionTiming": {
+        "technique": "Damped Spring",
+        "label": "Damped Spring — المنحنى والنقطة ناتجان عن الدالة نفسها. الرسم توضيحي وليس بيانات أداء متجر."
+      },
+      "keywords": "spring-response-plot رسم الاستجابة والارتداد Spring Response Plot النقطة ترسم منحنى استجابتها، تتجاوز الهدف قليلًا ثم تستقر عليه. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "referenceCredit": "@ultimaxbt",
+      "referenceNote": "مرجع @ultimaxbt على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M149",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M149",
+      "motion_timing": {
+        "technique": "Damped Spring",
+        "label": "Damped Spring — المنحنى والنقطة ناتجان عن الدالة نفسها. الرسم توضيحي وليس بيانات أداء متجر."
+      }
+    },
+    {
+      "id": "M150",
+      "key": "orbit-labels",
+      "name": "كلمات تدور حول الفكرة",
+      "english": "Orbiting Labels",
+      "description": "كلمات عربية كاملة تدور حول مركز مشترك وتستقر باتجاه قراءة صحيح.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 5,
+      "duration": 7.2,
+      "usage": "حرّك موضع الكلمة الكاملة مع حفظ شكل حروفها واتجاه قراءتها.",
+      "motionTiming": {
+        "technique": "Orbit + Settle",
+        "label": "Orbit + Settle — حرّك موضع الكلمة الكاملة مع حفظ شكل حروفها واتجاه قراءتها."
+      },
+      "keywords": "orbit-labels كلمات تدور حول الفكرة Orbiting Labels كلمات عربية كاملة تدور حول مركز مشترك وتستقر باتجاه قراءة صحيح. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "referenceCredit": "@ultimaxbt",
+      "referenceNote": "مرجع @ultimaxbt على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M150",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M150",
+      "motion_timing": {
+        "technique": "Orbit + Settle",
+        "label": "Orbit + Settle — حرّك موضع الكلمة الكاملة مع حفظ شكل حروفها واتجاه قراءتها."
+      }
+    },
+    {
+      "id": "M151",
+      "key": "halftone-reveal",
+      "name": "كشف بنقاط تتمدد",
+      "english": "Halftone Reveal",
+      "description": "حقل نقاط يتمدد من اليمين ويكشف عبارة نهائية واضحة.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 6,
+      "duration": 8.4,
+      "usage": "استخدمه جسرًا قصيرًا إلى عبارة ذات معنى، مع وقفة قراءة في النهاية.",
+      "motionTiming": {
+        "technique": "Staggered Dot Mask",
+        "label": "Staggered Dot Mask — استخدمه جسرًا قصيرًا إلى عبارة ذات معنى، مع وقفة قراءة في النهاية."
+      },
+      "keywords": "halftone-reveal كشف بنقاط تتمدد Halftone Reveal حقل نقاط يتمدد من اليمين ويكشف عبارة نهائية واضحة. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "referenceCredit": "@ultimaxbt",
+      "referenceNote": "مرجع @ultimaxbt على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M151",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M151",
+      "motion_timing": {
+        "technique": "Staggered Dot Mask",
+        "label": "Staggered Dot Mask — استخدمه جسرًا قصيرًا إلى عبارة ذات معنى، مع وقفة قراءة في النهاية."
+      }
+    },
+    {
+      "id": "M152",
+      "key": "shape-to-control",
+      "name": "دائرة تصبح بطاقة ثم زرًا",
+      "english": "Shape to UI Control",
+      "description": "نفس الحاوية تتحول بين دائرة وبطاقة وزر، ويظهر محتوى كل حالة بعد استقرارها.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 7,
+      "duration": 8.4,
+      "usage": "احفظ مركز الحاوية، وافصل خروج المحتوى عن دخول المحتوى التالي.",
+      "motionTiming": {
+        "technique": "Shared Shape Morph",
+        "label": "Shared Shape Morph — احفظ مركز الحاوية، وافصل خروج المحتوى عن دخول المحتوى التالي."
+      },
+      "keywords": "shape-to-control دائرة تصبح بطاقة ثم زرًا Shape to UI Control نفس الحاوية تتحول بين دائرة وبطاقة وزر، ويظهر محتوى كل حالة بعد استقرارها. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ultimaxbt-bbebf5",
+      "referenceCredit": "@ultimaxbt",
+      "referenceNote": "مرجع @ultimaxbt على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M152",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M152",
+      "motion_timing": {
+        "technique": "Shared Shape Morph",
+        "label": "Shared Shape Morph — احفظ مركز الحاوية، وافصل خروج المحتوى عن دخول المحتوى التالي."
+      }
+    },
+    {
+      "id": "M153",
+      "key": "badge-unlock",
+      "name": "فتح شارة إنجاز",
+      "english": "Badge Unlock",
+      "description": "شارة تميل بخفة ثم تستقر، مع احتفال صغير بعد ظهور علامة الإنجاز.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 8,
+      "duration": 7.8,
+      "usage": "احتفال بعد إنجاز واضح. هذه معاينة 2.5D أصلية وليست نموذج المصدر ثلاثي الأبعاد.",
+      "motionTiming": {
+        "technique": "Tilt + Reveal",
+        "label": "Tilt + Reveal — احتفال بعد إنجاز واضح. هذه معاينة 2.5D أصلية وليست نموذج المصدر ثلاثي الأبعاد."
+      },
+      "keywords": "badge-unlock فتح شارة إنجاز Badge Unlock شارة تميل بخفة ثم تستقر، مع احتفال صغير بعد ظهور علامة الإنجاز. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/bthreeagency-b9b8d9",
+      "referenceCredit": "@BThreeAgency",
+      "referenceNote": "مرجع @BThreeAgency على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M153",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M153",
+      "motion_timing": {
+        "technique": "Tilt + Reveal",
+        "label": "Tilt + Reveal — احتفال بعد إنجاز واضح. هذه معاينة 2.5D أصلية وليست نموذج المصدر ثلاثي الأبعاد."
+      }
+    },
+    {
+      "id": "M154",
+      "key": "smear-trail",
+      "name": "أثر سرعة خلف العنصر",
+      "english": "Smear Trail",
+      "description": "عنصر سريع يترك أثرًا خفيفًا يتلاشى عند الوصول.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 9,
+      "duration": 6.4,
+      "usage": "الأثر يشرح السرعة، ولا يمثل عناصر أو طلبات إضافية.",
+      "motionTiming": {
+        "technique": "Speed Trail",
+        "label": "Speed Trail — الأثر يشرح السرعة، ولا يمثل عناصر أو طلبات إضافية."
+      },
+      "keywords": "smear-trail أثر سرعة خلف العنصر Smear Trail عنصر سريع يترك أثرًا خفيفًا يتلاشى عند الوصول. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "referenceCredit": "@ik_builds",
+      "referenceNote": "مرجع @ik_builds على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع وصف تقني في البرومبت، وليس ادعاء مطابقة فيديو المصدر.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M154",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M154",
+      "motion_timing": {
+        "technique": "Speed Trail",
+        "label": "Speed Trail — الأثر يشرح السرعة، ولا يمثل عناصر أو طلبات إضافية."
+      }
+    },
+    {
+      "id": "M155",
+      "key": "squash-stretch",
+      "name": "ضغط وتمدد عند التلامس",
+      "english": "Squash and Stretch",
+      "description": "كرة تتمدد في الهواء وتنضغط على السطح ثم ترتد، مع حفظ مساحتها وعدم اختراق الأرض.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 10,
+      "duration": 8.4,
+      "usage": "طبّق التشوه على شكل مناسب، واحفظ الحروف العربية بنسبها الأصلية.",
+      "motionTiming": {
+        "technique": "Impact + Rebound",
+        "label": "Impact + Rebound — طبّق التشوه على شكل مناسب، واحفظ الحروف العربية بنسبها الأصلية."
+      },
+      "keywords": "squash-stretch ضغط وتمدد عند التلامس Squash and Stretch كرة تتمدد في الهواء وتنضغط على السطح ثم ترتد، مع حفظ مساحتها وعدم اختراق الأرض. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/ik-builds-b8bdcf",
+      "referenceCredit": "@ik_builds",
+      "referenceNote": "مرجع @ik_builds على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع وصف تقني في البرومبت، وليس ادعاء مطابقة فيديو المصدر.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M155",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M155",
+      "motion_timing": {
+        "technique": "Impact + Rebound",
+        "label": "Impact + Rebound — طبّق التشوه على شكل مناسب، واحفظ الحروف العربية بنسبها الأصلية."
+      }
+    },
+    {
+      "id": "M156",
+      "key": "token-bucket",
+      "name": "حصة تنفد ثم تتعبأ",
+      "english": "Token Bucket Gate",
+      "description": "تمر الطلبات المتاحة، ينتظر التالي عند نفاد الحصة، ثم يمر بعد إعادة التعبئة.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 11,
+      "duration": 10.8,
+      "usage": "اعرض شروط السماح والانتظار وإعادة التعبئة نفسها، دون ادعاء أنها سياسة منصة بعينها.",
+      "motionTiming": {
+        "technique": "Event Driven Simulation",
+        "label": "Event Driven Simulation — اعرض شروط السماح والانتظار وإعادة التعبئة نفسها، دون ادعاء أنها سياسة منصة بعينها."
+      },
+      "keywords": "token-bucket حصة تنفد ثم تتعبأ Token Bucket Gate تمر الطلبات المتاحة، ينتظر التالي عند نفاد الحصة، ثم يمر بعد إعادة التعبئة. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/parkerrex-1a54fe",
+      "referenceCredit": "@ParkerRex",
+      "referenceNote": "مرجع @ParkerRex على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M156",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M156",
+      "motion_timing": {
+        "technique": "Event Driven Simulation",
+        "label": "Event Driven Simulation — اعرض شروط السماح والانتظار وإعادة التعبئة نفسها، دون ادعاء أنها سياسة منصة بعينها."
+      }
+    },
+    {
+      "id": "M157",
+      "key": "photo-frame-growth",
+      "name": "إطار ينمو من حافة الصورة",
+      "english": "Photo Frame Growth",
+      "description": "الصورة تبقى ثابتة، وتنمو حول حافتها طبقة الورق ثم إطارها الخارجي.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 12,
+      "duration": 8.4,
+      "usage": "احفظ قياس الصورة وهويتها؛ التغير في حدود الإطار حولها.",
+      "motionTiming": {
+        "technique": "Edge Growth",
+        "label": "Edge Growth — احفظ قياس الصورة وهويتها؛ التغير في حدود الإطار حولها."
+      },
+      "keywords": "photo-frame-growth إطار ينمو من حافة الصورة Photo Frame Growth الصورة تبقى ثابتة، وتنمو حول حافتها طبقة الورق ثم إطارها الخارجي. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-221cab",
+      "referenceCredit": "@twoclipping",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M157",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M157",
+      "motion_timing": {
+        "technique": "Edge Growth",
+        "label": "Edge Growth — احفظ قياس الصورة وهويتها؛ التغير في حدود الإطار حولها."
+      }
+    },
+    {
+      "id": "M158",
+      "key": "window-roll-up",
+      "name": "نافذة تلتف لتكشف التالي",
+      "english": "Window Roll Up",
+      "description": "ترتفع حافة نافذة ملتفة، فتُكشف الحالة التي خلفها مع حفظ نسب النص.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 13,
+      "duration": 8.4,
+      "usage": "احجب النص بقناع بدل ضغط حروفه رأسيًا.",
+      "motionTiming": {
+        "technique": "Clipped Roll Reveal",
+        "label": "Clipped Roll Reveal — احجب النص بقناع بدل ضغط حروفه رأسيًا."
+      },
+      "keywords": "window-roll-up نافذة تلتف لتكشف التالي Window Roll Up ترتفع حافة نافذة ملتفة، فتُكشف الحالة التي خلفها مع حفظ نسب النص. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-221cab",
+      "referenceCredit": "@twoclipping",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M158",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M158",
+      "motion_timing": {
+        "technique": "Clipped Roll Reveal",
+        "label": "Clipped Roll Reveal — احجب النص بقناع بدل ضغط حروفه رأسيًا."
+      }
+    },
+    {
+      "id": "M159",
+      "key": "gallery-scan-select",
+      "name": "مسح مجموعة ثم اختيار عناصر",
+      "english": "Gallery Scan Select",
+      "description": "يمر خط فحص على مجموعة، ثم تبقى العناصر المختارة وتنتظم في صف.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 14,
+      "duration": 9.6,
+      "usage": "الاختيارات توضيحية؛ عند عرض أداء إعلانات استخدم نتائج فعلية وأصولًا مملوكة.",
+      "motionTiming": {
+        "technique": "Scan + Select + Reflow",
+        "label": "Scan + Select + Reflow — الاختيارات توضيحية؛ عند عرض أداء إعلانات استخدم نتائج فعلية وأصولًا مملوكة."
+      },
+      "keywords": "gallery-scan-select مسح مجموعة ثم اختيار عناصر Gallery Scan Select يمر خط فحص على مجموعة، ثم تبقى العناصر المختارة وتنتظم في صف. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/twoclipping-6dd14e",
+      "referenceCredit": "@twoclipping",
+      "referenceNote": "مرجع @twoclipping على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M159",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M159",
+      "motion_timing": {
+        "technique": "Scan + Select + Reflow",
+        "label": "Scan + Select + Reflow — الاختيارات توضيحية؛ عند عرض أداء إعلانات استخدم نتائج فعلية وأصولًا مملوكة."
+      }
+    },
+    {
+      "id": "M160",
+      "key": "frame-escape",
+      "name": "عنصر يخرج من إطاره",
+      "english": "Frame Escape",
+      "description": "تفصيل المنتج نفسه يتجاوز حد بطاقته، مع حفظ هويته واتجاهه.",
+      "category": "prompt-motion",
+      "categoryName": "من Prompt Motion",
+      "index": 15,
+      "duration": 7.8,
+      "usage": "ابدأ بعنصر مفهوم داخل حدوده، ثم أبرز ما يخرج منها دون نسخه إلى عنصر ثانٍ.",
+      "motionTiming": {
+        "technique": "Frame Breakout",
+        "label": "Frame Breakout — ابدأ بعنصر مفهوم داخل حدوده، ثم أبرز ما يخرج منها دون نسخه إلى عنصر ثانٍ."
+      },
+      "keywords": "frame-escape عنصر يخرج من إطاره Frame Escape تفصيل المنتج نفسه يتجاوز حد بطاقته، مع حفظ هويته واتجاهه. Prompt Motion موشن مرجع جديد",
+      "source": "Prompt Motion",
+      "sourceType": "visual-reference",
+      "referenceUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/prompt-motion.js",
+      "referenceTitle": "تنفيذ بالعرب / Prompt Motion",
+      "exampleUrl": "https://prompt-motion.com/pankajkumar-dev-0bee87",
+      "referenceCredit": "@pankajkumar_dev",
+      "referenceNote": "مرجع @pankajkumar_dev على Prompt Motion. السلوك أعيد تصميمه ورسمه لهذه المكتبة، مع تكييف العربية؛ لم ينسخ الفيديو أو البرومبت أو شيفرة مؤلفه. المرجع مثال مرئي ووصف سلوك، وليس حزمة GitHub.",
+      "provenance": "prompt_motion_behavior_original_canvas",
+      "productionStatus": "preview_only",
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M160",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M160",
+      "motion_timing": {
+        "technique": "Frame Breakout",
+        "label": "Frame Breakout — ابدأ بعنصر مفهوم داخل حدوده، ثم أبرز ما يخرج منها دون نسخه إلى عنصر ثانٍ."
       }
     }
   ],
@@ -3319,5 +3946,37 @@
     "continuous_browser_playback": "completed_144_previews_in_13_batches_p95_16.8ms_on_test_host",
     "audience_outcome": "not_measured",
     "replay_gap_seconds": 0.8
+  },
+  "prompt_motion_update": {
+    "date": "2026-10-14",
+    "new_previews": [
+      "M145",
+      "M146",
+      "M147",
+      "M148",
+      "M149",
+      "M150",
+      "M151",
+      "M152",
+      "M153",
+      "M154",
+      "M155",
+      "M156",
+      "M157",
+      "M158",
+      "M159",
+      "M160"
+    ],
+    "updated_previews": [
+      "M007",
+      "M008",
+      "M030",
+      "M037",
+      "M039",
+      "M042",
+      "M047",
+      "M118"
+    ],
+    "rights": "Independent Arabic illustrations with credited visual and prompt descriptions; no source code license or media reuse implied."
   }
 }

@@ -44,7 +44,7 @@ for(const file of files) {
   }
  }
 }
-for(const args of [['comparison','--json'],['--patterns','العميل','--json'],['--category','scene-pack','--json'],['--previews','--category','smooth','--json'],['--previews','--category','video-reference','--json'],['--previews','M143','--json']]) {
+for(const args of [['comparison','--json'],['--patterns','العميل','--json'],['--category','scene-pack','--json'],['--previews','--category','smooth','--json'],['--previews','--category','video-reference','--json'],['--previews','M143','--json'],['--previews','--category','prompt-motion','--json'],['--previews','M156','--json'],['--previews','--category','prompt-motion','--json'],['--previews','M156','--json']]) {
  const result=spawnSync(process.execPath,[path.join(root,'scripts/find.mjs')].concat(args),{encoding:'utf8'});
  assert.equal(result.status,0,result.stderr);
  assert.ok(JSON.parse(result.stdout).length>0,args.join(' '));

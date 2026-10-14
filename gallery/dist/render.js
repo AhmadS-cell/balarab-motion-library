@@ -1,3 +1,4 @@
+import {makePromptRenderers} from './prompt-motion.js';
 import {makeExpandedRenderers} from './expansion.js';
 import {easing,pressEnvelope,previewState} from './timing.js';
 export const C={ink:'#111314',blue:'#1858f2',orange:'#f5a41e',paper:'#f7f5ef',white:'#ffffff',muted:'#6a7166',line:'#d9ded3',green:'#318655',red:'#a93f3f'};
@@ -191,8 +192,9 @@ function emphasis(c,p,i){const q=phase(p);if(i===0){circle(c,320,211,85,'#dfefe3
  if(i===11){const change=phase(p,.35,.58);box(c,183,129.5,274,155,C.white,12);text(c,'حالة المنتج',320,187,21);c.save();c.globalAlpha=1-change;text(c,'متوفر',320,227-10*change,28,C.blue);c.globalAlpha=change;text(c,'غير متوفر',320,237-10*change,28,C.blue);c.globalAlpha=phase(p,.6,.72);circle(c,477,147,25,C.orange);text(c,'!',477,147,30);c.restore();}
 }
 const expandedRenderers=makeExpandedRenderers({C,box,text,line,circle,product,parcel,shadow,cursor,card,check,person});
-const renderers={text:phrase,numbers,compare:comparison,ui:interfaceMotion,flow,layout,charts:chart,product:productMotion,transition,emphasis,smooth:expandedRenderers.smooth,'video-reference':expandedRenderers['video-reference']};
-export function drawMotion(c,item,seconds=0){if(!renderers[item.category])throw new Error('Unknown motion category');c.save();c.clearRect(0,0,640,420);c.fillStyle=C.paper;c.fillRect(0,0,640,420);c.fillStyle='#d9ded340';for(let x=24;x<640;x+=28)for(let y=24;y<420;y+=28){c.beginPath();c.arc(x,y,1,0,Math.PI*2);c.fill();}const p=clamp((seconds%item.duration)/item.duration);renderers[item.category](c,p,item.index);c.restore();}
+const promptRenderer=makePromptRenderers({C,box,text,line,circle,product,parcel,shadow,cursor,card,check,page});
+const renderers={'prompt-motion':promptRenderer.draw,text:phrase,numbers,compare:comparison,ui:interfaceMotion,flow,layout,charts:chart,product:productMotion,transition,emphasis,smooth:expandedRenderers.smooth,'video-reference':expandedRenderers['video-reference']};
+export function drawMotion(c,item,seconds=0){if(!renderers[item.category])throw new Error('Unknown motion category');c.save();c.clearRect(0,0,640,420);c.fillStyle=C.paper;c.fillRect(0,0,640,420);c.fillStyle='#d9ded340';for(let x=24;x<640;x+=28)for(let y=24;y<420;y+=28){c.beginPath();c.arc(x,y,1,0,Math.PI*2);c.fill();}const p=clamp((seconds%item.duration)/item.duration);(promptRenderer.revisions[item.id]||renderers[item.category])(c,p,item.index);c.restore();}
 export const supportedCategories=Object.keys(renderers);
 
 export function drawPreview(c,item,seconds){const state=previewState(item,seconds);drawMotion(c,item,state.time);if(state.cover>0){c.save();c.globalAlpha=state.cover;c.fillStyle=C.paper;c.fillRect(0,0,640,420);c.restore();}}

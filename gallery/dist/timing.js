@@ -12,6 +12,7 @@ export function previewState(item,seconds){
 }
 export const motionDurations={M015:6.4,M024:7.2,M035:7.2,M058:7.2,M061:6.4,M065:6.4,M081:6.4};
 export function motionProfile(item){
+ if(item.motionTiming)return item.motionTiming;
  const special={
   M018:['Sequential Add','بند يصل، ثم يضاف، ثم وقفة لقراءة المجموع.'],
   M024:['Linear Timer','عدّ بالثواني الفعلية مع حلقة مرتبطة بنفس الوقت.'],
