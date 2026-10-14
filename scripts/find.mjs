@@ -22,5 +22,5 @@ const rows=(data.entries??data.patterns??data.motions).filter(row=>{
  return (!category||row.category===category)&&(!priority||row.priority===priority)&&words.every(word=>searchable.includes(word));
 });
 if(json)console.log(JSON.stringify(rows,null,2));
-else for(const row of rows)console.log(previews?row.id+' | '+row.name+' | '+row.english+'\n'+row.preview_url:patterns?row.id+' | '+row.name_ar+' | '+row.action_ar:row.name+' | '+data.priorities[row.priority]+' | '+row.description_ar+'\n'+row.source_url);
+else for(const row of rows)console.log(previews?row.id+' | '+row.name+' | '+row.english+'\n'+(row.preview_url||row.previewUrl):patterns?row.id+' | '+row.name_ar+' | '+row.action_ar:row.name+' | '+data.priorities[row.priority]+' | '+row.description_ar+'\n'+row.source_url);
 if(!rows.length&&!json)console.log('لا توجد نتائج؛ ابحث عن الفعل أو نوع العنصر بالعربي أو الإنجليزي.');

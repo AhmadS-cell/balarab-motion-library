@@ -11,7 +11,9 @@
     "charts": "البيانات والرسوم",
     "product": "المنتج والعمق",
     "transition": "الانتقال بين المشاهد",
-    "emphasis": "التأكيد والتوقيت"
+    "emphasis": "التأكيد والتوقيت",
+    "smooth": "الحركة السلسة والشرح",
+    "video-reference": "من مرجع الفيديو"
   },
   "motions": [
     {
@@ -29,7 +31,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-highlight هايلايت الكلمة المنطوقة Spoken Word Highlight تتبّع الكلمة داخل عبارة عربية كاملة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M001"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M001",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M001"
     },
     {
       "id": "M002",
@@ -46,7 +49,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography mask-reveal كشف العبارة بقناع Masked Text Reveal كشف هادئ فوق نص متصل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M002"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M002",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M002"
     },
     {
       "id": "M003",
@@ -63,7 +67,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-stagger كلمات تدخل بالتتابع Word Stagger دخول كلمات كاملة بتتابع قصير.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M003"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M003",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M003"
     },
     {
       "id": "M004",
@@ -80,7 +85,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography slide-phrase انزلاق العبارة واستقرارها Phrase Slide دخول عبارة من اليمين ثم استقرارها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M004"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M004",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M004"
     },
     {
       "id": "M005",
@@ -97,7 +103,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-type كتابة بالكلمات Word Typewriter بناء جملة بكلمات متصلة بدل فصل الحروف.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M005"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M005",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M005"
     },
     {
       "id": "M006",
@@ -114,7 +121,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography word-swap تبديل كلمة في مكانها Word Swap تغيير كلمة مع بقاء سياق العبارة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M006"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M006",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M006"
     },
     {
       "id": "M007",
@@ -131,7 +139,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography underline رسم خط تحت كلمة Underline Draw إبراز كلمة وظيفية بخط يتحرك تحتها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M007"
     },
     {
       "id": "M008",
@@ -148,7 +157,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography keyword-pill تركيز داخل كبسولة Keyword Pill تمييز كلمة بحيز يثبت حولها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M008"
     },
     {
       "id": "M009",
@@ -165,7 +175,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography quote-reveal كشف اقتباس قصير Quote Reveal اقتباس يظهر مع شريط تأكيد جانبي.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M009"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M009",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M009"
     },
     {
       "id": "M010",
@@ -182,7 +193,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography line-focus تركيز سطر وإبعاد الآخر Line Focus توجيه العين إلى السطر الجاري شرحه.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M010"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M010",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M010"
     },
     {
       "id": "M011",
@@ -199,7 +211,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography inline-number رقم يتغير داخل العبارة Inline Number قيمة تتغير داخل نفس السطر دون تزاحم.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M011"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M011",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M011"
     },
     {
       "id": "M012",
@@ -216,7 +229,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "النص والكابتشن Typography caption-bridge جسر بين عبارتين Caption Bridge خروج العبارة الأولى قبل دخول التالية.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M012"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M012",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M012"
     },
     {
       "id": "M013",
@@ -233,7 +247,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers count-up عداد يرتفع ويستقر Count Up زيادة رقم إلى قيمة تعليمية واضحة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M013"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M013",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M013"
     },
     {
       "id": "M014",
@@ -250,7 +265,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers price-swap تغيير سعر واحد Price Swap إخفاء السعر السابق ثم إظهار الجديد.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M014"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M014",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M014"
     },
     {
       "id": "M015",
@@ -267,7 +283,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers odometer عداد أرقام متدحرج Odometer حركة رأسية للأرقام داخل نافذة ثابتة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M015"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M015",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M015"
     },
     {
       "id": "M016",
@@ -284,7 +301,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers delta إظهار فرق القيمة Value Delta قيمة أساسية ثم مقدار التغير المرتبط بها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M016"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M016",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M016"
     },
     {
       "id": "M017",
@@ -301,7 +319,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers progress مؤشر تقدم Progress Fill امتلاء يصل إلى نسبة محددة ويستقر.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M017"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M017",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M017"
     },
     {
       "id": "M018",
@@ -318,7 +337,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers build-total بناء المجموع Build the Total اشتراك 100، ثم تجهيز 50، ثم شحن 30؛ المجموع يستقر على 100 ثم 150 ثم 180.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M018"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M018",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M018"
     },
     {
       "id": "M019",
@@ -335,7 +355,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers budget-usage الميزانية والاستخدام Budget and Usage مبلغ مستخدم داخل ميزانية، بلا جمع مزدوج.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M019"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M019",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M019"
     },
     {
       "id": "M020",
@@ -352,7 +373,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers bill-items بنود فاتورة تتكشف Invoice Reveal بنود مستقلة تظهر بقيمها ثم الإجمالي.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M020"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M020",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M020"
     },
     {
       "id": "M021",
@@ -369,7 +391,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers digit-space إفساح مكان لرقم أكبر Digit Reflow توسع حيز الرقم مع بقاء الوحدة واضحة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M021"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M021",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M021"
     },
     {
       "id": "M022",
@@ -386,7 +409,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers ratio تقسيم نسبة Ratio Split نسبة داخل شريط ذي جزأين واضحين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M022"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M022",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M022"
     },
     {
       "id": "M023",
@@ -403,7 +427,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers object-count عدّ عناصر مرتبطة Object Counter زيادة العناصر وعددها معًا.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M023"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M023",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M023"
     },
     {
       "id": "M024",
@@ -420,7 +445,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الأرقام والحسبة Numbers countdown عد تنازلي هادئ Countdown رقم ينخفض داخل حلقة توقيت واضحة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M024"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M024",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M024"
     },
     {
       "id": "M025",
@@ -437,7 +463,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison ab-focus انتقال التركيز بين A وB A/B Focus تكبير طرف أثناء شرحه مع حفظ الآخر.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M025"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M025",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M025"
     },
     {
       "id": "M026",
@@ -454,7 +481,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison before-after كشف قبل وبعد Before / After حاجز يكشف الفرق بين حالتين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M026"
     },
     {
       "id": "M027",
@@ -471,7 +499,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison compare-bars عمودان للمقارنة Two Bars نمو قيمتين مع وحدتهما وحفظ العلاقة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M027"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M027",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M027"
     },
     {
       "id": "M028",
@@ -488,7 +517,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison choice اختيار بين بديلين Choice Selection تمييز خيار ثم ربطه بالنتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M028"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M028",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M028"
     },
     {
       "id": "M029",
@@ -505,7 +535,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison balance ميزان المقارنة Balance ميل ميزان يظهر اختلاف وزن الخيارين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M029"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M029",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M029"
     },
     {
       "id": "M030",
@@ -522,7 +553,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison toggle تبديل حالة خيار Toggle State انتقال زر حالة بين خيارين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M030"
     },
     {
       "id": "M031",
@@ -539,7 +571,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison check-cross صح وخطأ Check and Cross إظهار حكم بصري بعد توضيح البديل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M031"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M031",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M031"
     },
     {
       "id": "M032",
@@ -556,7 +589,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison price-compare مقارنة قيمتين Price Comparison مقارنة قيم مثال داخل بطاقتين متحاذيتين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M032"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M032",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M032"
     },
     {
       "id": "M033",
@@ -573,7 +607,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison conversion زيارات وطلبات Conversion Comparison تحول جزء من مجموعتين إلى طلبات.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M033"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M033",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M033"
     },
     {
       "id": "M034",
@@ -590,7 +625,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison overlap-compare مطابقة حالتين Overlay Comparison تقريب شكلين لرؤية الفرق في الحجم.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M034"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M034",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M034"
     },
     {
       "id": "M035",
@@ -607,7 +643,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison rank-options ترتيب البدائل Rank Options إعادة ترتيب الخيارات بحسب قيمة معلنة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M035"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M035",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M035"
     },
     {
       "id": "M036",
@@ -624,7 +661,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المقارنة والقرار Comparison verdict نتيجة بين خيارين Comparison Verdict نقل التركيز إلى النتيجة بعد مقارنة الطرفين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M036"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M036",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M036"
     },
     {
       "id": "M037",
@@ -641,7 +679,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface click ضغط ثم نتيجة Click to Result المؤشر يصل للزر ثم تتغير الحالة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M037"
     },
     {
       "id": "M038",
@@ -658,7 +697,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface input كتابة داخل حقل Input Entry مدخل عربي يظهر داخل حقله ثم يتأكد.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M038"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M038",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M038"
     },
     {
       "id": "M039",
@@ -675,7 +715,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface search بحث ثم نتيجة Search Result استعلام ثم حالة بحث ثم نتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M039"
     },
     {
       "id": "M040",
@@ -692,7 +733,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface modal فتح نافذة داخلية Modal Open تكبير لوحة مع خفض تركيز الخلفية.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M040"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M040",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M040"
     },
     {
       "id": "M041",
@@ -709,7 +751,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface drawer فتح قائمة جانبية RTL RTL Drawer قائمة تخرج من الجانب الصحيح.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M041"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M041",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M041"
     },
     {
       "id": "M042",
@@ -726,7 +769,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface toast إشعار نتيجة Result Toast رسالة قصيرة تظهر بعد اكتمال الفعل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M042"
     },
     {
       "id": "M043",
@@ -743,7 +787,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface dropdown كشف خيارات حقل Dropdown Reveal القائمة تتكشف من الحقل الذي فتحها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M043"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M043",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M043"
     },
     {
       "id": "M044",
@@ -760,7 +805,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface checkbox تحديد خيار Checkbox Select ضغط يغير حالة مربع اختيار.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M044"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M044",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M044"
     },
     {
       "id": "M045",
@@ -777,7 +823,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface add-cart إضافة المنتج للسلة Add to Cart المنتج ينتقل إلى السلة ثم يتغير العدد.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M045"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M045",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M045"
     },
     {
       "id": "M046",
@@ -794,7 +841,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface checkout تأكيد خطوة الطلب Checkout Step تتابع خطوة ثم تأكيدها والانتقال للتالية.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M046"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M046",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M046"
     },
     {
       "id": "M047",
@@ -811,7 +859,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface tab-change تغيير تبويب Tab Switch مؤشر يتحرك وتتبعه لوحة المحتوى.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M047"
     },
     {
       "id": "M048",
@@ -828,7 +877,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الواجهة والتفاعل Interface scroll-focus تمرير إلى تفصيل Scroll to Detail تمرير محتوى موبايل للوصول لعنصر مقصود.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M048"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M048",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M048"
     },
     {
       "id": "M049",
@@ -845,7 +895,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow money-route انتقال تكلفة من الطلب Cost Transfer نقود رمزية تخرج من الطلب إلى بند التكلفة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M049"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M049",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M049"
     },
     {
       "id": "M050",
@@ -862,7 +913,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow delivery طرد من المتجر إلى العميل Package Delivery طرد يصل من مصدر واضح إلى وجهة واضحة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M050"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M050",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M050"
     },
     {
       "id": "M051",
@@ -879,7 +931,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow email-link رسالة ثم رابط المنتج Email to Product رسالة وظيفية تقود إلى نفس المنتج.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M051"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M051",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M051"
     },
     {
       "id": "M052",
@@ -896,7 +949,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow data-transfer نقل معلومة Data Transfer بيانات تنتقل بين طرفين وتستقر.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M052"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M052",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M052"
     },
     {
       "id": "M053",
@@ -913,7 +967,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow branch تفرع مسار قرار Decision Branch عنصر يصل إلى نقطة قرار ثم يسلك فرعًا.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M053"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M053",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M053"
     },
     {
       "id": "M054",
@@ -930,7 +985,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow steps خطوات سبب ونتيجة Causal Steps اكتمال كل فعل يفتح الخطوة التالية.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M054"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M054",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M054"
     },
     {
       "id": "M055",
@@ -947,7 +1003,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow notification تنبيه بعد حدث Event Notification حدث يتبعه تنبيه مرتبط به.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M055"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M055",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M055"
     },
     {
       "id": "M056",
@@ -964,7 +1021,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow return-loop عودة العميل Return Journey مسار عودة مرتبط بالمنتج نفسه.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M056"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M056",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M056"
     },
     {
       "id": "M057",
@@ -981,7 +1039,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow stock-zero نفاد كمية المنتج Stock to Zero عدد المخزون يصل للصفر داخل المنتج.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M057"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M057",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M057"
     },
     {
       "id": "M058",
@@ -998,7 +1057,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow merge تجميع في وجهة واحدة Merge Flow عناصر تصل إلى مركز ثم تصبح نتيجة واحدة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M058"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M058",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M058"
     },
     {
       "id": "M059",
@@ -1015,7 +1075,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow funnel رحلة من زيارة إلى طلب Funnel Journey انتقال عناصر بين مراحل شراء مختلفة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M059"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M059",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M059"
     },
     {
       "id": "M060",
@@ -1032,7 +1093,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الرحلات وتغير الحالة Story Flow refund رجوع طرد وتغير الحالة Return and Refund رجوع عنصر ثم تغير حالة العملية.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M060"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M060",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M060"
     },
     {
       "id": "M061",
@@ -1049,7 +1111,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout reflow مساحة قبل دخول عنصر Make Space تحرك الموجود أولًا لإفساح مكان للجديد.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M061"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M061",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M061"
     },
     {
       "id": "M062",
@@ -1066,7 +1129,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout card-stack كشف بطاقات من رزمة Card Stack بطاقات تنفصل من رزمة وتصبح مقروءة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M062"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M062",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M062"
     },
     {
       "id": "M063",
@@ -1083,7 +1147,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout bento تركيب مجموعة بطاقات Bento Assembly قطع مختلفة تستقر ضمن مجموعة واضحة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M063"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M063",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M063"
     },
     {
       "id": "M064",
@@ -1100,7 +1165,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout grid شبكة تنمو بتتابع Grid Stagger دخول عناصر الشبكة من اليمين بتتابع.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M064"
     },
     {
       "id": "M065",
@@ -1117,7 +1183,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout accordion توسيع بند وظيفي Accordion Expansion فتح التفاصيل من البند نفسه.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M065"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M065",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M065"
     },
     {
       "id": "M066",
@@ -1134,7 +1201,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout timeline خط زمني يتقدم Timeline Progress مرور على أحداث مرتبة مع كشفها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M066"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M066",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M066"
     },
     {
       "id": "M067",
@@ -1151,7 +1219,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout cascade تتابع رأسي للبنود Vertical Cascade كشف بنود واحدًا بعد الآخر.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M067"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M067",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M067"
     },
     {
       "id": "M068",
@@ -1168,7 +1237,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout organize ترتيب عناصر مبعثرة Scatter to Order انتقال عناصر من توزيع مبعثر إلى صف.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M068"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M068",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M068"
     },
     {
       "id": "M069",
@@ -1185,7 +1255,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout carousel انتقال بين بطاقات Card Carousel عنصر مركزي ثم انتقال التركيز للمجاور.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M069"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M069",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M069"
     },
     {
       "id": "M070",
@@ -1202,7 +1273,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout fan فتح بطاقات كمروحة Card Fan انفصال بطاقات لإظهار محتوى كل منها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M070"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M070",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M070"
     },
     {
       "id": "M071",
@@ -1219,7 +1291,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout extract-detail تفصيل يخرج من مصدره Detail Extraction تفصيل يكبر من العنصر الأصلي.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M071"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M071",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M071"
     },
     {
       "id": "M072",
@@ -1236,7 +1309,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الترتيب والاستمرارية Layout shared-element عنصر مستمر بين مشهدين Shared Element نفس العنصر ينتقل إلى مكانه في الحالة التالية.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M072"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M072",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M072"
     },
     {
       "id": "M073",
@@ -1253,7 +1327,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals bar-chart نمو أعمدة البيانات Bar Chart Grow أعمدة وقيم تتكشف بالتتابع.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M073"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M073",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M073"
     },
     {
       "id": "M074",
@@ -1270,7 +1345,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals line-chart رسم خط مع نقاطه Line Chart Draw خط يتبع البيانات ثم يكشف نقاطها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M074"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M074",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M074"
     },
     {
       "id": "M075",
@@ -1287,7 +1363,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals donut حلقة نسبة Donut Fill قوس يتوسع مع الرقم في مركزه.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M075"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M075",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M075"
     },
     {
       "id": "M076",
@@ -1304,7 +1381,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals area-chart كشف مساحة تحت خط Area Reveal مساحة تتكشف تدريجيًا مع خطها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M076"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M076",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M076"
     },
     {
       "id": "M077",
@@ -1321,7 +1399,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals waterfall جمع وتغير تراكمي Waterfall أثر البنود على الإجمالي بالتتابع.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M077"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M077",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M077"
     },
     {
       "id": "M078",
@@ -1338,7 +1417,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals gauge مؤشر يصل إلى قيمة Gauge Sweep إبرة تصل إلى موضع ثم تستقر.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M078"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M078",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M078"
     },
     {
       "id": "M079",
@@ -1355,7 +1435,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals radar كشف محاور مقارنة Radar Reveal مساحة توضح قيمًا على محاور معروفة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M079"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M079",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M079"
     },
     {
       "id": "M080",
@@ -1372,7 +1453,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals dot-chart تجمع نقاط إلى نسبة Dot Matrix نقاط تتلوّن لتجسيد جزء من مجموعة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M080"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M080",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M080"
     },
     {
       "id": "M081",
@@ -1389,7 +1471,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals ranking تبدل ترتيب البيانات Ranking Change عناصر تغير ترتيبها مع قيمها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M081"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M081",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M081"
     },
     {
       "id": "M082",
@@ -1406,7 +1489,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals heatmap كشف خريطة كثافة Heatmap Reveal خلايا تظهر اختلاف شدة القيم.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M082"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M082",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M082"
     },
     {
       "id": "M083",
@@ -1423,7 +1507,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals sparkline خط مصغر ثم قيمة Sparkline Metric دليل مصغر ينتهي بقيمة واضحة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M083"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M083",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M083"
     },
     {
       "id": "M084",
@@ -1440,7 +1525,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "البيانات والرسوم Data Visuals time-range نطاقات على خط زمني Time Ranges فترات تتكشف بمحاذاة محور وقت.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M084"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M084",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M084"
     },
     {
       "id": "M085",
@@ -1457,7 +1543,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-lift منتج يرتفع ويستقر Product Lift حركة رفع وظل يوضحان عمق المنتج.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M085"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M085",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M085"
     },
     {
       "id": "M086",
@@ -1474,7 +1561,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-turn تغيير زاوية المنتج Product Turn زاوية مبسطة تكشف جانبًا من المنتج.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M086"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M086",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M086"
     },
     {
       "id": "M087",
@@ -1491,7 +1579,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-zoom تقريب خاصية منتج Product Zoom اقتراب إلى الخاصية دون تغيير الهوية.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M087"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M087",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M087"
     },
     {
       "id": "M088",
@@ -1511,7 +1600,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-detail عدسة تكشف تفصيلًا Detail Lens عدسة تكبّر مكانها الفعلي؛ تبدأ فوق فراغ ثم تمر بالحافة وتستقر فوق 250 مل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M088"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M088",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M088"
     },
     {
       "id": "M089",
@@ -1531,7 +1621,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-callouts إبراز خصائص المنتج Feature Callouts نقاط ثابتة على المنتج تكشف شرح الخاصية بالتتابع. بديل فصل الطبقات.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M089"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M089",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M089"
     },
     {
       "id": "M090",
@@ -1551,7 +1642,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion unbox فتح العبوة Unboxing غطاء يفتح حول مفصله، ثم يخرج المنتج من داخل العبوة ويستقر بجانبها.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M090"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M090",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M090"
     },
     {
       "id": "M091",
@@ -1568,7 +1660,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion color-options خيارات لون المنتج Color Options تبديل لون داخل جسم المنتج نفسه.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M091"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M091",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M091"
     },
     {
       "id": "M092",
@@ -1585,7 +1678,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion assembly تجميع أجزاء منتج Product Assembly الجسم ثابت، ثم يركب الغطاء ويلتصق اللابل بموضعه الصحيح.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M092"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M092",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M092"
     },
     {
       "id": "M093",
@@ -1602,7 +1696,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion spotlight إضاءة على خاصية Product Spotlight ضوء يوجه التركيز لجزء من المنتج.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M093"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M093",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M093"
     },
     {
       "id": "M094",
@@ -1622,7 +1717,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion product-carousel تبديل منتج داخل نافذة Product Carousel خيار يغادر النافذة ويصل التالي إلى مكانه. بديل الانعكاس.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M094"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M094",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M094"
     },
     {
       "id": "M095",
@@ -1639,7 +1735,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion texture كشف ملمس المنتج Texture Reveal منطقة تتكشف لإظهار تفصيل السطح.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M095"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M095",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M095"
     },
     {
       "id": "M096",
@@ -1659,7 +1756,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "المنتج والعمق Product Motion finish-compare مقارنة تشطيب المنتج Finish Comparison فاصل يكشف لونين على نفس الشكل، مع ثبات المنتج. بديل التفكيك والعودة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M096"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M096",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M096"
     },
     {
       "id": "M097",
@@ -1676,7 +1774,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions wipe كشف اتجاهي Directional Wipe مشهد جديد يكشف من اليمين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M097"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M097",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M097"
     },
     {
       "id": "M098",
@@ -1693,7 +1792,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions iris كشف دائري من الفعل Iris Reveal دائرة تنطلق من نقطة التركيز.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M098"
     },
     {
       "id": "M099",
@@ -1710,7 +1810,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions push مشهد يدفع التالي Scene Push استمرار اتجاه الحركة بين المشهدين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M099"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M099",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M099"
     },
     {
       "id": "M100",
@@ -1727,7 +1828,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions zoom-through اقتراب ثم مشهد جديد Zoom Through انتقال عبر العنصر البطل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M100"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M100",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M100"
     },
     {
       "id": "M101",
@@ -1744,7 +1846,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions match-cut قطع على نفس الشكل Match Cut الشكل نفسه يصل بين حالتين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M101"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M101",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M101"
     },
     {
       "id": "M102",
@@ -1761,7 +1864,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions focus-transition انتقال عمق التركيز Focus Shift تبدل وضوح المشهدين دون تراكب كتابتهما.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M102"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M102",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M102"
     },
     {
       "id": "M103",
@@ -1778,7 +1882,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions diagonal قناع قطري Diagonal Reveal قناع قطري يكشف الكادر التالي.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M103"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M103",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M103"
     },
     {
       "id": "M104",
@@ -1795,7 +1900,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions shutter كشف بستائر Shutter Reveal مقاطع تنفتح بتتابع بسيط.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M104"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M104",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M104"
     },
     {
       "id": "M105",
@@ -1815,7 +1921,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions card-swap تبادل البطاقات بعمق Card Swap البطاقة الأمامية تنسحب، ثم تتقدم التالية وتعود الأولى إلى الخلف. بديل تحول الصفحة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M105"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M105",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M105"
     },
     {
       "id": "M106",
@@ -1832,7 +1939,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions color-dip جسر لون قصير Dip to Color لون وسيط قصير بين حالتين.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M106"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M106",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M106"
     },
     {
       "id": "M107",
@@ -1852,7 +1960,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions shared-expansion توسيع المنتج إلى تفاصيله Shared Layout Expansion نفس المنتج يستمر من بطاقته إلى عرض التفاصيل. بديل تحول الشكل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M107"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M107",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M107"
     },
     {
       "id": "M108",
@@ -1872,7 +1981,8 @@
       "provenance": "behavior_adaptation_original_canvas",
       "productionStatus": "preview_only",
       "keywords": "الانتقال بين المشاهد Transitions depth-carousel تقدم البطاقات من العمق Depth Carousel البطاقة الخلفية تكبر إلى المقدمة، مع ترتيب صحيح للحجب والحجم.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M108"
     },
     {
       "id": "M109",
@@ -1889,7 +1999,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis check-draw رسم تأكيد النجاح Check Draw علامة نجاح ترسم بعد اكتمال الفعل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M109"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M109",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M109"
     },
     {
       "id": "M110",
@@ -1906,7 +2017,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis loss-exit خروج العميل مع X Customer Loss شخصية تغادر ثم يتضح الفقد وتختفي.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M110"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M110",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M110"
     },
     {
       "id": "M111",
@@ -1923,7 +2035,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis path-draw مسار يصل لوجهته Path Draw خط وظيفي يصل من المصدر إلى النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M111"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M111",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M111"
     },
     {
       "id": "M112",
@@ -1940,7 +2053,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis pointer-pulse إشارة ضغط محددة Pointer Pulse تأكيد خفيف عند هدف الضغط.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M112"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M112",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M112"
     },
     {
       "id": "M113",
@@ -1957,7 +2071,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis ripple أثر دائرة عند الفعل Action Ripple دائرة قصيرة من موضع الحدث.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M113"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M113",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M113"
     },
     {
       "id": "M114",
@@ -1974,7 +2089,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis focus-dim خفض الخلفية وتركيز عنصر Focus Dim خفض المحيط مع بقاء العنصر واضحًا.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M114"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M114",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M114"
     },
     {
       "id": "M115",
@@ -1991,7 +2107,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis timer-ring حلقة توقيت Timer Ring مسار وقت يتقدم نحو حدث واضح.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M115"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M115",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M115"
     },
     {
       "id": "M116",
@@ -2008,7 +2125,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis calendar تقويم تجديد واضح Renewal Calendar تحديد شهر أو استحقاق داخل تقويم مسمى.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M116"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M116",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M116"
     },
     {
       "id": "M117",
@@ -2025,7 +2143,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis success-burst تأكيد نتيجة خفيف Quiet Success تأكيد قصير حول النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M117"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M117",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M117"
     },
     {
       "id": "M118",
@@ -2042,7 +2161,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis tag-attach ربط قيمة بعنصرها Attach Value Tag بطاقة قيمة تصل إلى المنتج المقصود.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M118"
     },
     {
       "id": "M119",
@@ -2059,7 +2179,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis pin-target تحديد موضع داخل رسم Target Pin علامة تحدد موضعًا وظيفيًا.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M119"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M119",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M119"
     },
     {
       "id": "M120",
@@ -2076,7 +2197,8 @@
       "provenance": "original_demo",
       "productionStatus": "preview_only",
       "keywords": "التأكيد والتوقيت Emphasis warning تنبيه حالة مهمة State Warning تغير حالة واضح يتبعه تنبيه قصير.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M120"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M120",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M120"
     },
     {
       "id": "M121",
@@ -2097,7 +2219,8 @@
       "keywords": "spring-landing هبوط بطاقة بارتداد خفيف Spring Landing Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M121"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M121",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M121"
     },
     {
       "id": "M122",
@@ -2118,7 +2241,8 @@
       "keywords": "tangent-route عنصر يتبع انحناء الطريق Tangent Motion Path Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M122"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M122",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M122"
     },
     {
       "id": "M123",
@@ -2139,7 +2263,8 @@
       "keywords": "data-morph البيانات تتغير على نفس المحاور Data Shape Morph Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M123"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M123",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M123"
     },
     {
       "id": "M124",
@@ -2160,7 +2285,8 @@
       "keywords": "outline-fill رسم العنصر ثم ملؤه Outline to Fill Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M124"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M124",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M124"
     },
     {
       "id": "M125",
@@ -2181,7 +2307,8 @@
       "keywords": "grid-event-wave موجة من موضع الحدث Event Grid Wave Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M125"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M125",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M125"
     },
     {
       "id": "M126",
@@ -2202,7 +2329,8 @@
       "keywords": "cursor-follow-chain تتابع يلحق حركة المؤشر Delayed Follow Chain Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M126"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M126",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M126"
     },
     {
       "id": "M127",
@@ -2223,7 +2351,8 @@
       "keywords": "list-status-transfer نقل بند بين حالتين List Status Transfer Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M127"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M127",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M127"
     },
     {
       "id": "M128",
@@ -2244,7 +2373,8 @@
       "keywords": "layout-mode-switch نفس العناصر من شبكة إلى قائمة Layout Mode Switch Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M128"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M128",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M128"
     },
     {
       "id": "M129",
@@ -2265,7 +2395,8 @@
       "keywords": "circular-sequential-pulse تتابع حول دورة تشغيل Circular Sequential Pulse Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M129"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M129",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M129"
     },
     {
       "id": "M130",
@@ -2286,7 +2417,8 @@
       "keywords": "two-face-card بطاقة تقلب لتكشف الوجه الثاني Two Face Card Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M130"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M130",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M130"
     },
     {
       "id": "M131",
@@ -2307,7 +2439,8 @@
       "keywords": "expand-reveal-chain فتح مساحة ثم كشف محتواها Expand Then Populate Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M131"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M131",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M131"
     },
     {
       "id": "M132",
@@ -2328,7 +2461,8 @@
       "keywords": "hierarchy-open كشف مستويات شجرة Hierarchy Open Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M132"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M132",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M132"
     },
     {
       "id": "M133",
@@ -2349,7 +2483,8 @@
       "keywords": "dock-magnify تكبير قريب من المؤشر Dock Magnification Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M133"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M133",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M133"
     },
     {
       "id": "M134",
@@ -2370,7 +2505,8 @@
       "keywords": "masonry-reflow ترتيب بطاقات متفاوتة الطول Masonry Reflow Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M134"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M134",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M134"
     },
     {
       "id": "M135",
@@ -2391,7 +2527,8 @@
       "keywords": "inertia-stop اندفاع يتباطأ ويقف Inertia Stop Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M135"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M135",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M135"
     },
     {
       "id": "M136",
@@ -2413,7 +2550,8 @@
       "productionStatus": "preview_only",
       "exampleVideoUrl": "https://www.facebook.com/reel/4883517721896141",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M136"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M136",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M136"
     },
     {
       "id": "M137",
@@ -2434,7 +2572,8 @@
       "keywords": "row-remove-collapse حذف بند ثم إغلاق فجوة Remove Then Collapse Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M137"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M137",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M137"
     },
     {
       "id": "M138",
@@ -2455,7 +2594,8 @@
       "keywords": "sticky-explainer عنصر ثابت وشرح يمر بجانبه Sticky Explainer Anime.js React Spring",
       "productionStatus": "preview_only",
       "usage": "اربط تغير حالة العنصر بالفعل المشروح، وحافظ على هويته ووقت واضح لقراءة النتيجة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M138"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M138",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M138"
     },
     {
       "id": "M139",
@@ -2477,7 +2617,8 @@
       "keywords": "depth-parallax بارالاكس طبقات العمق Depth Parallax تحرك الكاميرا يظهر اختلاف سرعة المقدمة والخلفية، مع بقاء الطبقات مرتبطة بمشهد واحد. 64 مرجع Facebook بنك الحركات",
       "productionStatus": "preview_only",
       "usage": "احتفظ بمشهد واحد، واجعل الأقرب يتحرك أكثر من الأبعد مع حركة الكاميرا.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M139"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M139",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M139"
     },
     {
       "id": "M140",
@@ -2499,7 +2640,8 @@
       "keywords": "dolly-zoom دولي زوم مع ثبات البطل Dolly Zoom حجم المنتج ثابت، بينما يتغير منظور الخلفية مع تعويض البعد البؤري. 64 مرجع Facebook بنك الحركات",
       "productionStatus": "preview_only",
       "usage": "ثبت حجم البطل، واربط تغير منظور الخلفية بلحظة اكتشاف أو مفاجأة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M140"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M140",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M140"
     },
     {
       "id": "M141",
@@ -2521,7 +2663,8 @@
       "keywords": "j-cut-timeline صوت يسبق الصورة J-cut Timeline رسم توقيت يوضح بداية صوت اللقطة التالية قبل تغير الصورة. يربط بالصوت الحقيقي عند الإنتاج. 36 مرجع Facebook بنك الحركات",
       "productionStatus": "preview_only",
       "usage": "أدخل صوت المقطع التالي قبل قص صورته بحسب التسجيل والتوقيت المعتمد.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M141"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M141",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M141"
     },
     {
       "id": "M142",
@@ -2543,7 +2686,8 @@
       "keywords": "gentle-handheld اهتزاز كاميرا خفيف Gentle Handheld انحراف صغير في كادر الرسم يحاكي حركة كاميرا لطيفة ثم يستقر. 78 مرجع Facebook بنك الحركات",
       "productionStatus": "preview_only",
       "usage": "استخدم انحرافًا صغيرًا في الرسم، مع ثبات الكابتشن والموقع في كادر الريل.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M142"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M142",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M142"
     },
     {
       "id": "M143",
@@ -2565,7 +2709,8 @@
       "keywords": "kashida-stretch مط الكشيدة مع اتصال العربية Kashida Stretch تطويل عند موضع اتصال جائز داخل كلمة عربية، دون تمديد شكل الحروف أو تفكيكها. 86 مرجع Facebook بنك الحركات",
       "productionStatus": "preview_only",
       "usage": "اختر كلمة بها موضع اتصال مناسب، واربط تطويلها بالكلمة المنطوقة المقصودة.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M143"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M143",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M143"
     },
     {
       "id": "M144",
@@ -2587,7 +2732,8 @@
       "keywords": "dot-zoom زوم داخل نقطة دلالية Dot Zoom اقتراب إلى نقطة مرتبطة بالكلمة حتى تملأ الكادر وتقود إلى العبارة التالية. 92 مرجع Facebook بنك الحركات",
       "productionStatus": "preview_only",
       "usage": "حدد نقطة ظاهرة قبل الاقتراب، ثم اكشف العبارة التالية بعد امتلاء الكادر.",
-      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M144"
+      "previewUrl": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M144",
+      "preview_url": "https://balarab-motion-gallery.ahmadsabbah81.chatgpt.site/#motion=M144"
     }
   ]
 }
